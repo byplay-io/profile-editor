@@ -148,7 +148,7 @@ function CaptureGroup({
         <p class="muted small">
           {capture === 'snapshot'
             ? 'Saved as PNG under the app’s folder in the Files app.'
-            : 'Each recording gets its own folder, named below. The files inside keep fixed names (video.mp4, …).'}
+            : 'Each recording gets its own folder, named below. The video and FBX inside take the same name: .mp4, _bg.mp4 for the background plate, and .fbx.'}
         </p>
       </div>
       <PathPreview capture={capture} folder={t.folder} file={t.file} values={values} date={date} />
@@ -211,7 +211,7 @@ function PathPreview({
         {name ? (
           <span class="readout-file">
             {name}
-            {capture === 'snapshot' ? '.png' : <span class="readout-dim">/video.mp4</span>}
+            {capture === 'snapshot' ? '.png' : <span class="readout-dim">/{name}.mp4</span>}
           </span>
         ) : (
           <span class="readout-empty">(empty name)</span>

@@ -24,7 +24,7 @@ What is deliberately not in the profile: the current day, roll, scene, take, cam
 |---|---|
 | `project` | Short production code, 1–24 characters. The `{project}` token. |
 | `title` | Full title, optional. The `{title}` token. |
-| `naming.snapshot` / `naming.video` | `{ folder, file }` templates, see below. For videos, `file` names the recording folder; the files inside keep their fixed names (`video.mp4`, …). |
+| `naming.snapshot` / `naming.video` | `{ folder, file }` templates, see below. For videos, `file` names the recording folder and the footage in it, so every take's video can be gathered into one folder without clashes: `<name>.mp4` (composited), `<name>_bg.mp4` (background plate, when recorded), `<name>.fbx` (camera and scene). Data files keep fixed names (`byplay_data.bpsc`, `metadata.txt`, `recording_manifest.json`, `arkit_world_map.dat`), and the manifest lists every file under `files`. |
 | `slate.cameraOptions` | Camera letters to pick from, e.g. `["A","B"]`. Empty means free text. |
 | `slate.customFields` | Up to 8 extra slate fields `{ key, label, options? }`. `key` matches `^[a-z][a-z0-9]{0,23}$`, is unique, and isn't a built-in token; it becomes the `{key}` token. With `options` (1–20 entries) the field is a pick list. |
 | `slate.director`, `slate.dp` | Crew defaults, applied when the profile is activated. |
@@ -68,7 +68,7 @@ Rendering rules, in order:
 4. The remaining segments are joined, each with the separator that stood in front of it in the template.
 5. The joined level gets the same cleaning as values (so literal text can't contain `:` either), and trailing dots and spaces are removed. Levels that end up empty, `.` or `..` are dropped, so a template can't write outside the app's folder.
 6. A file name longer than 150 characters is cut at 150 code points, and separators or dots left at the end of the cut are removed.
-7. Snapshots get the extension `.png`; video recordings are folders with no extension. If the result already exists, the app appends `_v2`, `_v3`, … before the extension.
+7. Snapshots get the extension `.png`. A video recording is a folder with that name, holding `<name>.mp4`, `<name>_bg.mp4` and `<name>.fbx`. If the result already exists, the app appends `_v2`, `_v3`, … to the name (before the extension, and to the folder and its files alike).
 
 Example, with day 1, roll 1, scene D12, take 1, 2026-10-07 16:43:
 
