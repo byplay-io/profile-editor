@@ -1,0 +1,116 @@
+[
+  {
+    "family": "ARRI",
+    "name": "Alfa",
+    "focalLengths": [20, 25, 32, 40, 50, 65, 85, 100, 135],
+    "anamorphicSqueeze": 2.0
+  },
+  {
+    "family": "ARRI",
+    "name": "Master Prime",
+    "focalLengths": [
+      12, 14, 16, 18, 21, 25, 27, 32, 35, 40, 50, 65, 75, 100, 135, 150
+    ],
+    "anamorphicSqueeze": 1.0
+  },
+  {
+    "family": "ARRI",
+    "name": "Ultra Prime",
+    "focalLengths": [
+      8, 10, 12, 14, 16, 20, 24, 32, 40, 50, 65, 85, 100, 135, 180
+    ],
+    "anamorphicSqueeze": 1.0
+  },
+  {
+    "family": "Zeiss",
+    "name": "Supreme Prime",
+    "focalLengths": [15, 18, 21, 25, 29, 35, 50, 65, 85, 100, 135, 200],
+    "anamorphicSqueeze": 1.0
+  },
+  {
+    "family": "Zeiss",
+    "name": "Master Anamorphic",
+    "focalLengths": [32, 40, 50, 65, 75, 100, 135],
+    "anamorphicSqueeze": 2.0
+  },
+  {
+    "family": "Zeiss",
+    "name": "CP.3",
+    "focalLengths": [15, 18, 21, 25, 28, 35, 50, 85, 100, 135],
+    "anamorphicSqueeze": 1.0
+  },
+  {
+    "family": "Cooke",
+    "name": "S4/i",
+    "focalLengths": [
+      12, 14, 16, 18, 21, 25, 27, 32, 35, 40, 50, 65, 75, 100, 135, 150, 180
+    ],
+    "anamorphicSqueeze": 1.0
+  },
+  {
+    "family": "Cooke",
+    "name": "Anamorphic/i",
+    "focalLengths": [25, 32, 40, 50, 65, 75, 100, 135, 180],
+    "anamorphicSqueeze": 2.0
+  },
+  {
+    "family": "Cooke",
+    "name": "S7/i Full Frame",
+    "focalLengths": [16, 18, 21, 25, 27, 32, 35, 40, 50, 65, 75, 100, 135, 150],
+    "anamorphicSqueeze": 1.0
+  },
+  {
+    "family": "Panavision",
+    "name": "Ultra Vista",
+    "focalLengths": [15, 20, 24, 28, 35, 40, 50, 65, 85, 100, 135],
+    "anamorphicSqueeze": 1.65
+  },
+  {
+    "family": "Panavision",
+    "name": "C Series",
+    "focalLengths": [40, 50, 75, 100, 150, 180],
+    "anamorphicSqueeze": 2.0
+  },
+  {
+    "family": "Panavision",
+    "name": "G Series",
+    "focalLengths": [25, 35, 40, 50, 75, 100, 150],
+    "anamorphicSqueeze": 2.0
+  },
+  {
+    "family": "Canon",
+    "name": "CN-E",
+    "focalLengths": [14, 20, 24, 35, 50, 85, 135],
+    "anamorphicSqueeze": 1.0
+  },
+  {
+    "family": "Canon",
+    "name": "Sumire Prime",
+    "focalLengths": [14, 20, 24, 35, 50, 85, 135],
+    "anamorphicSqueeze": 1.0
+  },
+  {
+    "family": "Sony",
+    "name": "FX",
+    "focalLengths": [20, 24, 35, 50, 85, 135],
+    "anamorphicSqueeze": 1.0
+  },
+  {
+    "family": "Leica",
+    "name": "Summilux-C",
+    "focalLengths": [16, 18, 21, 25, 29, 35, 40, 50, 65, 75, 100, 135],
+    "anamorphicSqueeze": 1.0
+  },
+  {
+    "family": "Sigma",
+    "name": "Cine",
+    "focalLengths": [14, 20, 24, 35, 50, 85, 135],
+    "anamorphicSqueeze": 1.0
+  },
+  {
+    "family": "Atlas",
+    "name": "Orion",
+    "focalLengths": [32, 40, 50, 65, 80, 100],
+    "anamorphicSqueeze": 2.0
+  }
+]

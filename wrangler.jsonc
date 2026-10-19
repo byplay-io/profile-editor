@@ -1,0 +1,24 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "byplay-profile-editor",
+  // The Cloudflare account that holds the byplay.io zone.
+  "account_id": "a1534aa3777a4e6f7c80991c0cc691e3",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    // Every request goes through worker/index.ts, which adds the security headers.
+    "run_worker_first": true,
+    // Serve dist/byplay-profile-editor-offline.html at its own name (no redirect to
+    // an extensionless URL), so the download link and Content-Disposition line up.
+    "html_handling": "none",
+    "not_found_handling": "404-page"
+  },
+  // Request logs would hold nothing typed into the page (it never sends anything),
+  // but keep them off anyway.
+  "observability": { "enabled": false },
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [{ "pattern": "profiles.byplay.io", "custom_domain": true }]
+}

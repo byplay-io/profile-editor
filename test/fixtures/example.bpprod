@@ -1,0 +1,141 @@
+{
+  "format": "byplay-production",
+  "version": 1,
+  "id": "6f1c2a9e-3b7d-4c1e-9a52-0d8e4f7b21c3",
+  "revision": 3,
+  "updatedAt": "2026-10-20T14:02:11.000Z",
+  "project": "ABC",
+  "title": "Example Feature",
+  "naming": {
+    "snapshot": {
+      "folder": "{project}/Day_{day:02}",
+      "file": "{project}_Day-{day:02}_{date:YYYYMMDD}_{time:HHmm}_R{roll:02}_{scene}_Tk{take}"
+    },
+    "video": {
+      "folder": "{project}/Day_{day:02}",
+      "file": "{project}_Day-{day:02}_R{roll:02}_{scene}_Tk{take}_{camera}"
+    }
+  },
+  "slate": {
+    "cameraOptions": [
+      "A",
+      "B",
+      "C"
+    ],
+    "customFields": [
+      {
+        "key": "unit",
+        "label": "Unit",
+        "options": [
+          "Main",
+          "2nd"
+        ]
+      },
+      {
+        "key": "setup",
+        "label": "Setup"
+      }
+    ],
+    "director": "Jane Doe",
+    "dp": "Sam Lee",
+    "snapshotsAdvanceTake": true,
+    "clearNotesAfterCapture": true
+  },
+  "capture": {
+    "saveToFiles": true,
+    "saveToPhotos": true,
+    "shotLog": true
+  },
+  "optics": {
+    "cameras": [
+      {
+        "name": "Sony Venice 2",
+        "manufacturer": "Sony",
+        "model": "Venice 2",
+        "sensors": [
+          {
+            "mode": "8.6K 3:2",
+            "sensor": [
+              35.9,
+              24.0
+            ]
+          },
+          {
+            "mode": "6K S35 17:9",
+            "sensor": [
+              24.3,
+              12.8
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ARRI Alexa 35",
+        "manufacturer": "ARRI",
+        "model": "Alexa 35",
+        "sensors": [
+          {
+            "mode": "4.6K 3:2 Open Gate",
+            "sensor": [
+              27.99,
+              19.22
+            ]
+          }
+        ]
+      }
+    ],
+    "lenses": [
+      {
+        "family": "Cooke",
+        "name": "S4/i",
+        "focalLengths": [
+          18,
+          21,
+          25,
+          32,
+          40,
+          50,
+          75,
+          100
+        ],
+        "anamorphicSqueeze": 1
+      },
+      {
+        "family": "ARRI",
+        "name": "Signature Prime",
+        "focalLengths": [
+          18,
+          25,
+          35,
+          47,
+          75,
+          125
+        ],
+        "anamorphicSqueeze": 1
+      }
+    ],
+    "mattes": [
+      [
+        2.39,
+        1
+      ],
+      [
+        1.85,
+        1
+      ]
+    ],
+    "defaults": {
+      "camera": "Sony Venice 2",
+      "sensorMode": "8.6K 3:2",
+      "lens": {
+        "family": "Cooke",
+        "name": "S4/i"
+      },
+      "focalLength": 32,
+      "matte": [
+        2.39,
+        1
+      ]
+    }
+  }
+}

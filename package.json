@@ -1,0 +1,39 @@
+{
+  "name": "byplay-profile-editor",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run sync:data -- --optional && vite build && vite build --mode offline && node scripts/finalize-offline.mjs",
+    "typecheck": "tsc -p tsconfig.json && tsc -p worker/tsconfig.json",
+    "test": "vitest run",
+    "check": "npm run typecheck && npm test && npm run build",
+    "sync": "node scripts/sync-from-app.mjs all",
+    "sync:schema": "node scripts/sync-from-app.mjs schema",
+    "sync:naming": "node scripts/sync-from-app.mjs naming",
+    "sync:data": "node scripts/sync-from-app.mjs data",
+    "sync:fixtures": "node scripts/sync-from-app.mjs fixtures",
+    "sync:docs": "node scripts/sync-from-app.mjs docs",
+    "worker:dev": "wrangler dev",
+    "deploy": "npm run check && wrangler deploy"
+  },
+  "dependencies": {
+    "@fontsource-variable/archivo": "^5.3.0",
+    "fflate": "^0.8.3",
+    "preact": "^10.29.8",
+    "qrcode": "^1.5.4",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261019.1",
+    "@preact/preset-vite": "^2.10.6",
+    "@types/node": "^26.6.5",
+    "@types/qrcode": "^1.5.6",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4",
+    "vite-plugin-singlefile": "^2.3.4",
+    "vitest": "^5.0.5",
+    "wrangler": "^4.151.2"
+  }
+}

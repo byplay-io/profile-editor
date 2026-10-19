@@ -1,0 +1,10 @@
+/* Archivo (the Byplay Previs website's family), Latin subset with the weight axis,
+   bundled with the page: no font CDN. One file and no unicode-range, so it loads
+   once with the page and typing never triggers another font request. */
+@font-face {
+  font-family: 'Archivo Variable';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  src: url('../node_modules/@fontsource-variable/archivo/files/archivo-latin-wght-normal.woff2') format('woff2-variations');
+}

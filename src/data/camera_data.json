@@ -1,0 +1,5279 @@
+[
+  {
+    "category": "Apple",
+    "name": "Native Camera",
+    "sensors": [
+      {
+        "sensor": [-1, -1],
+        "mode": "[native]"
+      }
+    ],
+    "manufacturer": "Apple",
+    "model": "[model]"
+  },
+  {
+    "category": "Sony",
+    "name": "Sony Alpha 7R V",
+    "sensors": [
+      {
+        "sensor": [35.7, 23.8],
+        "mode": "3:2"
+      },
+      {
+        "sensor": [35.7, 20.08],
+        "mode": "16:9"
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "Alpha 7R V"
+  },
+  {
+    "category": "Sony",
+    "name": "Sony FX5",
+    "sensors": [
+      {
+        "sensor": [35.9, 24.0],
+        "mode": "3:2",
+        "name": "Open Gate"
+      },
+      {
+        "sensor": [35.9, 20.2],
+        "mode": "16:9"
+      },
+      {
+        "sensor": [23.5, 13.2],
+        "mode": "16:9",
+        "name": "Super 35"
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "FX5"
+  },
+  {
+    "category": "Sony",
+    "name": "Sony Alpha 7R VI",
+    "sensors": [
+      {
+        "sensor": [35.9, 24.0],
+        "resolution": [9984, 6656],
+        "mode": "3:2"
+      },
+      {
+        "sensor": [35.9, 20.2],
+        "mode": "16:9"
+      },
+      {
+        "sensor": [27.6, 15.5],
+        "resolution": [7680, 4320],
+        "mode": "16:9",
+        "name": "8K"
+      },
+      {
+        "sensor": [23.5, 13.2],
+        "mode": "16:9",
+        "name": "APS-C"
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "Alpha 7R VI"
+  },
+  {
+    "category": "Sony",
+    "name": "Sony Venice 2",
+    "sensors": [
+      {
+        "sensor": [22.6, 12.7],
+        "resolution": [5434, 3056],
+        "mode": "5.4K 16:9"
+      },
+      {
+        "sensor": [24.1, 12.7],
+        "resolution": [5792, 3056],
+        "mode": "5.8K 17:9"
+      },
+      {
+        "sensor": [22.8, 9.55],
+        "resolution": [5480, 2296],
+        "mode": "5.5K 2.39:1"
+      },
+      {
+        "sensor": [24.1, 20.2],
+        "resolution": [5792, 4854],
+        "mode": "5.8K 6:5"
+      },
+      {
+        "sensor": [24.1, 17.8],
+        "resolution": [5792, 4276],
+        "mode": "5.8K 4:3"
+      },
+      {
+        "sensor": [32.0, 18.0],
+        "resolution": [7680, 4320],
+        "mode": "7.6K 16:9"
+      },
+      {
+        "sensor": [33.8, 19.0],
+        "resolution": [8100, 4556],
+        "mode": "8.1K 16:9"
+      },
+      {
+        "sensor": [34.1, 18.0],
+        "resolution": [8192, 4320],
+        "mode": "8.2K 17:9"
+      },
+      {
+        "sensor": [34.1, 14.3],
+        "resolution": [8192, 3432],
+        "mode": "8.2K 2.39:1"
+      },
+      {
+        "sensor": [35.9, 19.0],
+        "resolution": [8640, 4556],
+        "mode": "8.6K 17:9"
+      },
+      {
+        "sensor": [35.9, 24.0],
+        "resolution": [8640, 5760],
+        "mode": "8.6K 3:2"
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "Venice 2"
+  },
+  {
+    "category": "vision-research",
+    "name": "Vision Research Phantom Flex4K GS",
+    "sensors": [
+      {
+        "sensor": [27.6, 15.5],
+        "resolution": [4096, 2304],
+        "name": "Native 16:9",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 15.5],
+        "resolution": [3840, 2160],
+        "name": "Overscan 16:9",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 15.5],
+        "resolution": [2752, 2304],
+        "name": "Anamorphic 2.0",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 15.5],
+        "resolution": [1920, 1080],
+        "name": "Scaled 16:9",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 14.5],
+        "resolution": [4096, 2160],
+        "name": "Native DCI 4K",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 14.9],
+        "resolution": [4096, 2216],
+        "name": "Native 1.85:1",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 11.5],
+        "resolution": [4096, 1712],
+        "name": "Native 2.39:1",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [25.8, 14.5],
+        "resolution": [3840, 2160],
+        "name": "Cropped 16:9",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [13.8, 10.4],
+        "resolution": [2048, 1536],
+        "name": "Native 4:3",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [13.8, 7.8],
+        "resolution": [2048, 1152],
+        "name": "Native 16:9",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [13.8, 7.8],
+        "resolution": [1920, 1080],
+        "name": "Overscan 16:9",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [13.8, 7.3],
+        "resolution": [2048, 1080],
+        "name": "Native DCI 2K",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [12.9, 7.3],
+        "resolution": [1920, 1080],
+        "name": "Crop 16:9",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [13.8, 7.8],
+        "resolution": [1280, 720],
+        "name": "Scaled 16:9",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [8.6, 4.9],
+        "resolution": [1280, 720],
+        "name": "Crop 16:9",
+        "mode": "2K Mode"
+      }
+    ],
+    "manufacturer": "Vision Research",
+    "model": "Phantom Flex4K GS"
+  },
+  {
+    "category": "blackmagic",
+    "name": "Blackmagic URSA Mini Pro 4.6K G2",
+    "sensors": [
+      {
+        "sensor": [25.34, 14.25],
+        "resolution": [4608, 2592],
+        "name": "4.6K 16:9",
+        "mode": null
+      },
+      {
+        "sensor": [25.34, 10.55],
+        "resolution": [4608, 1920],
+        "name": "4.6K 2.40:1",
+        "mode": null
+      },
+      {
+        "sensor": [22.52, 12.66],
+        "resolution": [4096, 2304],
+        "name": "4K 16:9",
+        "mode": null
+      },
+      {
+        "sensor": [22.52, 11.87],
+        "resolution": [4096, 2160],
+        "name": "4K DCI",
+        "mode": null
+      },
+      {
+        "sensor": [21.12, 11.87],
+        "resolution": [3840, 2160],
+        "name": "Ultra HD",
+        "mode": null
+      },
+      {
+        "sensor": [16.89, 14.07],
+        "resolution": [3072, 2560],
+        "name": "3K Anamorphic",
+        "mode": null
+      },
+      {
+        "sensor": [11.26, 6.33],
+        "resolution": [2048, 1152],
+        "name": "2K 16:9",
+        "mode": null
+      },
+      {
+        "sensor": [11.26, 5.93],
+        "resolution": [2048, 1080],
+        "name": "2K DCI",
+        "mode": null
+      },
+      {
+        "sensor": [10.55, 5.93],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": null
+      }
+    ],
+    "manufacturer": "Blackmagic",
+    "model": "URSA Mini Pro 4.6K G2"
+  },
+  {
+    "category": "vision-research",
+    "name": "Vision Research Phantom v2640 ONYX",
+    "sensors": [
+      {
+        "sensor": [27.6, 26.3],
+        "resolution": [2048, 1952],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [27.6, 19.4],
+        "resolution": [2048, 1440],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [25.9, 14.6],
+        "resolution": [1920, 1080],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [13.8, 13.2],
+        "resolution": [1024, 976],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [24.2, 9.7],
+        "resolution": [1792, 720],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [8.6, 6.5],
+        "resolution": [640, 480],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [3.5, 4.3],
+        "resolution": [256, 320],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [3.5, 0.9],
+        "resolution": [256, 64],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [12.1, 0.2],
+        "resolution": [896, 16],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [24.2, 0.1],
+        "resolution": [1792, 8],
+        "name": "",
+        "mode": null
+      }
+    ],
+    "manufacturer": "Vision Research",
+    "model": "Phantom v2640 ONYX"
+  },
+  {
+    "category": "vision-research",
+    "name": "Vision Research Phantom VEO4K-PL",
+    "sensors": [
+      {
+        "sensor": [27.6, 15.5],
+        "resolution": [4096, 2304],
+        "name": "Native 16:9",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 15.5],
+        "resolution": [3840, 2160],
+        "name": "Overscan 16:9",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 15.5],
+        "resolution": [2752, 2304],
+        "name": "Anamorphic 2.0",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 15.5],
+        "resolution": [1920, 1080],
+        "name": "Scaled 16:9",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 14.5],
+        "resolution": [4096, 2160],
+        "name": "Native DCI 4K",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 14.9],
+        "resolution": [4096, 2216],
+        "name": "Native 1.85:1",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 11.5],
+        "resolution": [4096, 1712],
+        "name": "Native 2.39:1",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [25.8, 14.5],
+        "resolution": [3840, 2160],
+        "name": "Cropped 16:9",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [13.8, 10.4],
+        "resolution": [2048, 1536],
+        "name": "Native 4:3",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [13.8, 7.8],
+        "resolution": [2048, 1152],
+        "name": "Native 16:9",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [13.8, 7.8],
+        "resolution": [1920, 1080],
+        "name": "Overscan 16:9",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [13.8, 7.3],
+        "resolution": [2048, 1080],
+        "name": "Native DCI 2K",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [12.9, 7.3],
+        "resolution": [1920, 1080],
+        "name": "Crop 16:9",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [13.8, 7.8],
+        "resolution": [1280, 720],
+        "name": "Scaled 16:9",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [8.6, 4.9],
+        "resolution": [1280, 720],
+        "name": "Crop 16:9",
+        "mode": "2K Mode"
+      }
+    ],
+    "manufacturer": "Vision Research",
+    "model": "Phantom VEO4K-PL"
+  },
+  {
+    "category": "panavision",
+    "name": "Panavision Millennium DXL2",
+    "sensors": [
+      {
+        "sensor": [40.96, 21.6],
+        "resolution": [8192, 4320],
+        "name": "8K Open Gate",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [38.4, 20.4],
+        "resolution": [7680, 4080],
+        "name": "7.5K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [35.84, 18.9],
+        "resolution": [7168, 3780],
+        "name": "7K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [33.28, 17.68],
+        "resolution": [6656, 3536],
+        "name": "6.5K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [30.72, 16.2],
+        "resolution": [6144, 3240],
+        "name": "6K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [25.6, 13.5],
+        "resolution": [5120, 2700],
+        "name": "5K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [20.48, 10.8],
+        "resolution": [4096, 2160],
+        "name": "4K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [15.36, 8.1],
+        "resolution": [3072, 1620],
+        "name": "3K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [10.24, 5.4],
+        "resolution": [2048, 1080],
+        "name": "2K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [40.96, 21.6],
+        "resolution": [8192, 4320],
+        "name": "8K Open Gate",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [38.4, 21.6],
+        "resolution": [7680, 4320],
+        "name": "8K",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [36.48, 20.52],
+        "resolution": [7296, 4104],
+        "name": "7.5K",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [33.6, 18.9],
+        "resolution": [6720, 3780],
+        "name": "7K",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [30.72, 17.28],
+        "resolution": [6144, 3456],
+        "name": "6.5K",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [28.8, 16.2],
+        "resolution": [5760, 3240],
+        "name": "6K",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [24.0, 13.5],
+        "resolution": [4800, 2700],
+        "name": "5K",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [19.2, 10.8],
+        "resolution": [3840, 2160],
+        "name": "4K",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [40.96, 21.6],
+        "resolution": [8192, 4320],
+        "name": "8K Open Gate",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [40.96, 17.28],
+        "resolution": [8192, 3456],
+        "name": "8K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [38.4, 16.2],
+        "resolution": [7680, 3240],
+        "name": "7.5K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [35.84, 15.12],
+        "resolution": [7168, 3024],
+        "name": "7K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [33.28, 14.04],
+        "resolution": [6656, 2808],
+        "name": "6.5K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [30.72, 12.96],
+        "resolution": [6144, 2592],
+        "name": "6K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [25.6, 10.8],
+        "resolution": [5120, 2160],
+        "name": "5K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [20.48, 8.64],
+        "resolution": [4096, 1728],
+        "name": "4K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [15.36, 6.48],
+        "resolution": [3072, 1296],
+        "name": "3K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [10.24, 4.32],
+        "resolution": [2048, 864],
+        "name": "2K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [40.96, 21.6],
+        "resolution": [8192, 4320],
+        "name": "8K Open Gate",
+        "mode": "Anamorphic 6:5 Mode"
+      },
+      {
+        "sensor": [25.92, 21.6],
+        "resolution": [5184, 4320],
+        "name": "8K",
+        "mode": "Anamorphic 6:5 Mode"
+      },
+      {
+        "sensor": [22.68, 18.9],
+        "resolution": [4536, 3780],
+        "name": "7K",
+        "mode": "Anamorphic 6:5 Mode"
+      },
+      {
+        "sensor": [19.44, 16.2],
+        "resolution": [3888, 3240],
+        "name": "6K",
+        "mode": "Anamorphic 6:5 Mode"
+      },
+      {
+        "sensor": [16.2, 13.5],
+        "resolution": [3240, 2700],
+        "name": "5K",
+        "mode": "Anamorphic 6:5 Mode"
+      },
+      {
+        "sensor": [12.96, 10.8],
+        "resolution": [2592, 2160],
+        "name": "4K",
+        "mode": "Anamorphic 6:5 Mode"
+      }
+    ],
+    "manufacturer": "Panavision",
+    "model": "Millennium DXL2"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA LF",
+    "sensors": [
+      {
+        "sensor": [36.7, 25.54],
+        "resolution": [4448, 3096],
+        "name": "OG 4.5K",
+        "mode": "LF Open Gate Mode"
+      },
+      {
+        "sensor": [36.7, 15.31],
+        "resolution": [4448, 1856],
+        "name": "Scope 4.5K",
+        "mode": "LF 2.39:1 Mode"
+      },
+      {
+        "sensor": [31.68, 17.82],
+        "resolution": [3840, 2160],
+        "name": "4K UHD",
+        "mode": "LF 16:9 Mode"
+      },
+      {
+        "sensor": [31.68, 17.82],
+        "resolution": [2048, 1152],
+        "name": "2K",
+        "mode": "LF 16:9 Mode"
+      },
+      {
+        "sensor": [31.68, 17.82],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": "LF 16:9 Mode"
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA LF"
+  },
+  {
+    "category": "red",
+    "name": "RED EPIC-W 8K",
+    "sensors": [
+      {
+        "sensor": [29.9, 15.77],
+        "resolution": [8192, 4320],
+        "name": "8K FF",
+        "mode": null
+      },
+      {
+        "sensor": [29.9, 14.95],
+        "resolution": [8192, 4096],
+        "name": "8K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [29.9, 12.61],
+        "resolution": [8192, 3456],
+        "name": "8K WS",
+        "mode": null
+      },
+      {
+        "sensor": [28.03, 15.77],
+        "resolution": [7680, 4320],
+        "name": "8K HD",
+        "mode": null
+      },
+      {
+        "sensor": [28.03, 14.89],
+        "resolution": [7680, 4080],
+        "name": "7.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [28.03, 14.02],
+        "resolution": [7680, 3840],
+        "name": "7.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [28.03, 11.83],
+        "resolution": [7680, 3240],
+        "name": "7.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [26.63, 14.98],
+        "resolution": [7296, 4104],
+        "name": "7.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [26.16, 13.8],
+        "resolution": [7168, 3780],
+        "name": "7K FF",
+        "mode": null
+      },
+      {
+        "sensor": [26.16, 13.08],
+        "resolution": [7168, 3584],
+        "name": "7K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [26.16, 11.04],
+        "resolution": [7168, 3024],
+        "name": "7K WS",
+        "mode": null
+      },
+      {
+        "sensor": [24.53, 13.8],
+        "resolution": [6720, 3780],
+        "name": "7K HD",
+        "mode": null
+      },
+      {
+        "sensor": [24.29, 12.91],
+        "resolution": [6656, 3536],
+        "name": "6.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [24.29, 12.15],
+        "resolution": [6656, 3328],
+        "name": "6.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [24.29, 10.25],
+        "resolution": [6656, 2808],
+        "name": "6.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [22.43, 12.61],
+        "resolution": [6144, 3456],
+        "name": "6.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [22.43, 11.83],
+        "resolution": [6144, 3240],
+        "name": "6K FF",
+        "mode": null
+      },
+      {
+        "sensor": [22.43, 11.21],
+        "resolution": [6144, 3072],
+        "name": "6K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [22.43, 9.46],
+        "resolution": [6144, 2592],
+        "name": "6K WS",
+        "mode": null
+      },
+      {
+        "sensor": [21.02, 11.83],
+        "resolution": [5760, 3240],
+        "name": "6K HD",
+        "mode": null
+      },
+      {
+        "sensor": [20.56, 10.76],
+        "resolution": [5632, 2948],
+        "name": "5.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [20.56, 10.28],
+        "resolution": [5632, 2816],
+        "name": "5.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [20.56, 8.67],
+        "resolution": [5632, 2376],
+        "name": "5.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [19.62, 11.04],
+        "resolution": [5376, 3024],
+        "name": "5.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [18.69, 9.86],
+        "resolution": [5120, 2700],
+        "name": "5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [18.69, 9.34],
+        "resolution": [5120, 2560],
+        "name": "5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [18.69, 7.88],
+        "resolution": [5120, 2160],
+        "name": "5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [17.52, 9.86],
+        "resolution": [4800, 2700],
+        "name": "5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [16.82, 8.8],
+        "resolution": [4608, 2412],
+        "name": "4.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [16.82, 8.41],
+        "resolution": [4608, 2304],
+        "name": "4.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [16.82, 7.1],
+        "resolution": [4608, 1944],
+        "name": "4.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [15.77, 8.67],
+        "resolution": [4320, 2376],
+        "name": "4.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [14.95, 7.88],
+        "resolution": [4096, 2160],
+        "name": "4K FF",
+        "mode": null
+      },
+      {
+        "sensor": [14.95, 7.48],
+        "resolution": [4096, 2048],
+        "name": "4K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [14.95, 6.31],
+        "resolution": [4096, 1728],
+        "name": "4K WS",
+        "mode": null
+      },
+      {
+        "sensor": [14.02, 7.88],
+        "resolution": [3840, 2160],
+        "name": "4K HD",
+        "mode": null
+      },
+      {
+        "sensor": [13.08, 6.85],
+        "resolution": [3584, 1876],
+        "name": "3.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [13.08, 6.54],
+        "resolution": [3584, 1792],
+        "name": "3.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [13.08, 5.52],
+        "resolution": [3584, 1512],
+        "name": "3.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [12.61, 7.1],
+        "resolution": [3456, 1944],
+        "name": "3.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [11.21, 5.91],
+        "resolution": [3072, 1620],
+        "name": "3K FF",
+        "mode": null
+      },
+      {
+        "sensor": [11.21, 5.61],
+        "resolution": [3072, 1536],
+        "name": "3K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [11.21, 4.73],
+        "resolution": [3072, 1296],
+        "name": "3K WS",
+        "mode": null
+      },
+      {
+        "sensor": [10.51, 5.91],
+        "resolution": [2880, 1620],
+        "name": "3K HD",
+        "mode": null
+      },
+      {
+        "sensor": [9.34, 4.89],
+        "resolution": [2560, 1340],
+        "name": "2.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [9.34, 4.67],
+        "resolution": [2560, 1280],
+        "name": "2.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [9.34, 3.94],
+        "resolution": [2560, 1080],
+        "name": "2.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [8.41, 4.73],
+        "resolution": [2304, 1296],
+        "name": "2.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [7.48, 3.94],
+        "resolution": [2048, 1080],
+        "name": "2K FF",
+        "mode": null
+      },
+      {
+        "sensor": [7.48, 3.74],
+        "resolution": [2048, 1024],
+        "name": "2K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [7.48, 3.15],
+        "resolution": [2048, 864],
+        "name": "2K WS",
+        "mode": null
+      },
+      {
+        "sensor": [7.01, 3.94],
+        "resolution": [1920, 1080],
+        "name": "2K HD",
+        "mode": null
+      }
+    ],
+    "manufacturer": "RED",
+    "model": "EPIC-W 8K"
+  },
+  {
+    "category": "red",
+    "name": "RED EPIC-W 5K",
+    "sensors": [
+      {
+        "sensor": [30.72, 18.0],
+        "resolution": [5120, 3000],
+        "name": "5K 1.7:1",
+        "mode": null
+      },
+      {
+        "sensor": [30.72, 16.2],
+        "resolution": [5120, 2700],
+        "name": "5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [30.72, 15.36],
+        "resolution": [5120, 2560],
+        "name": "5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [30.72, 12.96],
+        "resolution": [5120, 2160],
+        "name": "5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [28.8, 16.2],
+        "resolution": [4800, 2700],
+        "name": "5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [27.65, 14.47],
+        "resolution": [4608, 2412],
+        "name": "4.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [27.65, 13.82],
+        "resolution": [4608, 2304],
+        "name": "4.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [27.65, 11.66],
+        "resolution": [4608, 1944],
+        "name": "4.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [25.92, 14.26],
+        "resolution": [4320, 2376],
+        "name": "4.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [24.58, 12.96],
+        "resolution": [4096, 2160],
+        "name": "4K FF",
+        "mode": null
+      },
+      {
+        "sensor": [24.58, 12.29],
+        "resolution": [4096, 2048],
+        "name": "4K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [24.58, 10.37],
+        "resolution": [4096, 1728],
+        "name": "4K WS",
+        "mode": null
+      },
+      {
+        "sensor": [23.04, 12.96],
+        "resolution": [3840, 2160],
+        "name": "4K HD",
+        "mode": null
+      },
+      {
+        "sensor": [21.5, 11.26],
+        "resolution": [3584, 1876],
+        "name": "3.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [21.5, 10.75],
+        "resolution": [3584, 1792],
+        "name": "3.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [21.5, 9.07],
+        "resolution": [3584, 1512],
+        "name": "3.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [20.74, 11.66],
+        "resolution": [3456, 1944],
+        "name": "3.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [18.43, 9.72],
+        "resolution": [3072, 1620],
+        "name": "3K FF",
+        "mode": null
+      },
+      {
+        "sensor": [18.43, 9.22],
+        "resolution": [3072, 1536],
+        "name": "3K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [18.43, 7.78],
+        "resolution": [3072, 1296],
+        "name": "3K WS",
+        "mode": null
+      },
+      {
+        "sensor": [17.28, 9.72],
+        "resolution": [2880, 1620],
+        "name": "3K HD",
+        "mode": null
+      },
+      {
+        "sensor": [15.36, 8.04],
+        "resolution": [2560, 1340],
+        "name": "2.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [15.36, 7.68],
+        "resolution": [2560, 1280],
+        "name": "2.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [15.36, 6.48],
+        "resolution": [2560, 1080],
+        "name": "2.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [13.82, 7.78],
+        "resolution": [2304, 1296],
+        "name": "2.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [12.29, 6.48],
+        "resolution": [2048, 1080],
+        "name": "2K FF",
+        "mode": null
+      },
+      {
+        "sensor": [12.29, 6.14],
+        "resolution": [2048, 1024],
+        "name": "2K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [12.29, 5.18],
+        "resolution": [2048, 864],
+        "name": "2K WS",
+        "mode": null
+      },
+      {
+        "sensor": [11.52, 6.48],
+        "resolution": [1920, 1080],
+        "name": "2K HD",
+        "mode": null
+      }
+    ],
+    "manufacturer": "RED",
+    "model": "EPIC-W 5K"
+  },
+  {
+    "category": "red",
+    "name": "RED SCARLET-W 6K",
+    "sensors": [
+      {
+        "sensor": [30.72, 15.8],
+        "resolution": [6144, 3160],
+        "name": "6K FF",
+        "mode": null
+      },
+      {
+        "sensor": [25.58, 13.49],
+        "resolution": [5120, 2700],
+        "name": "5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [25.58, 12.79],
+        "resolution": [5120, 2560],
+        "name": "5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [25.58, 10.79],
+        "resolution": [5120, 2160],
+        "name": "5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [23.98, 13.49],
+        "resolution": [4800, 2700],
+        "name": "5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [20.47, 10.79],
+        "resolution": [4096, 2160],
+        "name": "4K FF",
+        "mode": null
+      },
+      {
+        "sensor": [20.47, 10.23],
+        "resolution": [4096, 2048],
+        "name": "4K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [20.47, 8.63],
+        "resolution": [4096, 1728],
+        "name": "4K WS",
+        "mode": null
+      },
+      {
+        "sensor": [19.19, 10.79],
+        "resolution": [3840, 2160],
+        "name": "4K HD",
+        "mode": null
+      },
+      {
+        "sensor": [15.36, 8.1],
+        "resolution": [3072, 1620],
+        "name": "3K FF",
+        "mode": null
+      },
+      {
+        "sensor": [15.36, 7.68],
+        "resolution": [3072, 1536],
+        "name": "3K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [15.36, 6.48],
+        "resolution": [3072, 1296],
+        "name": "3K WS",
+        "mode": null
+      },
+      {
+        "sensor": [14.4, 8.1],
+        "resolution": [2880, 1620],
+        "name": "3K HD",
+        "mode": null
+      },
+      {
+        "sensor": [10.24, 5.4],
+        "resolution": [2048, 1080],
+        "name": "2K FF",
+        "mode": null
+      },
+      {
+        "sensor": [10.24, 5.12],
+        "resolution": [2048, 1024],
+        "name": "2K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [10.24, 4.32],
+        "resolution": [2048, 864],
+        "name": "2K WS",
+        "mode": null
+      },
+      {
+        "sensor": [9.6, 5.4],
+        "resolution": [1920, 1080],
+        "name": "2K HD",
+        "mode": null
+      }
+    ],
+    "manufacturer": "RED",
+    "model": "SCARLET-W 6K"
+  },
+  {
+    "category": "ft-one",
+    "name": "FOR-A FT-ONE",
+    "sensors": [
+      {
+        "sensor": [23.6, 13.3],
+        "mode": null
+      }
+    ],
+    "manufacturer": "FOR-A FT-ONE",
+    "model": ""
+  },
+  {
+    "category": "blackmagic",
+    "name": "Blackmagic Pocket Cinema Camera 4K",
+    "sensors": [
+      {
+        "sensor": [18.96, 10.0],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Blackmagic",
+    "model": "Pocket Cinema Camera 4K"
+  },
+  {
+    "category": "blackmagic",
+    "name": "Blackmagic URSA Broadcast",
+    "sensors": [
+      {
+        "sensor": [13.056, 7.344],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Blackmagic",
+    "model": "URSA Broadcast"
+  },
+  {
+    "category": "sony",
+    "name": "Sony PXW-FS5",
+    "sensors": [
+      {
+        "sensor": [23.6, 13.3],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "PXW-FS5"
+  },
+  {
+    "category": "sony",
+    "name": "Sony VENICE",
+    "sensors": [
+      {
+        "sensor": [36.0, 19.4],
+        "resolution": [6054, 3272],
+        "name": "6K 1.85:1",
+        "mode": "6K Full Frame Mode"
+      },
+      {
+        "sensor": [36.0, 19.0],
+        "resolution": [6054, 3192],
+        "name": "6K 17:9",
+        "mode": "6K Full Frame Mode"
+      },
+      {
+        "sensor": [35.9, 24.0],
+        "resolution": [6048, 4032],
+        "name": "6K 3:2",
+        "mode": "6K Full Frame Mode"
+      },
+      {
+        "sensor": [35.9, 15.0],
+        "resolution": [6048, 2534],
+        "name": "6K 2.39:1",
+        "mode": "6K Full Frame Mode"
+      },
+      {
+        "sensor": [33.7, 18.9],
+        "resolution": [5670, 3190],
+        "name": "5.7K 16:9",
+        "mode": "6K Full Frame Mode"
+      },
+      {
+        "sensor": [24.3, 20.4],
+        "resolution": [4096, 3432],
+        "name": "4K 6:5",
+        "mode": "4K Anamorphic Mode"
+      },
+      {
+        "sensor": [24.3, 18.0],
+        "resolution": [4096, 3024],
+        "name": "4K 4:3",
+        "mode": "4K Anamorphic Mode"
+      },
+      {
+        "sensor": [24.3, 12.8],
+        "resolution": [4096, 2160],
+        "name": "4K 17:9",
+        "mode": "4K Super35 Mode"
+      },
+      {
+        "sensor": [22.8, 12.8],
+        "resolution": [3840, 2160],
+        "name": "3.8K 16:9",
+        "mode": "4K Super35 Mode"
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "VENICE"
+  },
+  {
+    "category": "io-industries",
+    "name": "IO Industries Flare 2KSDI",
+    "sensors": [
+      {
+        "sensor": [8.8, 6.6],
+        "mode": null
+      }
+    ],
+    "manufacturer": "IO Industries",
+    "model": "Flare 2KSDI"
+  },
+  {
+    "category": "panasonic",
+    "name": "Panasonic VariCam Pure",
+    "sensors": [
+      {
+        "sensor": [23.6, 13.3],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Panasonic",
+    "model": "VariCam Pure"
+  },
+  {
+    "category": "panasonic",
+    "name": "Panasonic VariCam 35",
+    "sensors": [
+      {
+        "sensor": [23.6, 13.3],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Panasonic",
+    "model": "VariCam 35"
+  },
+  {
+    "category": "panasonic",
+    "name": "Panasonic VariCam LT",
+    "sensors": [
+      {
+        "sensor": [23.6, 13.3],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Panasonic",
+    "model": "VariCam LT"
+  },
+  {
+    "category": "panasonic",
+    "name": "Panasonic VariCam HS",
+    "sensors": [
+      {
+        "sensor": [8.8, 6.6],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Panasonic",
+    "model": "VariCam HS"
+  },
+  {
+    "category": "panasonic",
+    "name": "Panasonic AG-DVX200",
+    "sensors": [
+      {
+        "sensor": [17.3, 9.7],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Panasonic",
+    "model": "AG-DVX200"
+  },
+  {
+    "category": "panasonic",
+    "name": "Panasonic AG-UX180",
+    "sensors": [
+      {
+        "sensor": [12.8, 7.2],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Panasonic",
+    "model": "AG-UX180"
+  },
+  {
+    "category": "panasonic",
+    "name": "Panasonic AG-UX90",
+    "sensors": [
+      {
+        "sensor": [12.8, 7.2],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Panasonic",
+    "model": "AG-UX90"
+  },
+  {
+    "category": "blackmagic",
+    "name": "Blackmagic URSA Mini Pro 4.6K",
+    "sensors": [
+      {
+        "sensor": [25.34, 14.25],
+        "resolution": [4608, 2592],
+        "name": "4.6K 16:9",
+        "mode": null
+      },
+      {
+        "sensor": [25.34, 10.55],
+        "resolution": [4608, 1920],
+        "name": "4.6K 2.40:1",
+        "mode": null
+      },
+      {
+        "sensor": [22.52, 12.66],
+        "resolution": [4096, 2304],
+        "name": "4K 16:9",
+        "mode": null
+      },
+      {
+        "sensor": [22.52, 11.87],
+        "resolution": [4096, 2160],
+        "name": "4K DCI",
+        "mode": null
+      },
+      {
+        "sensor": [21.12, 11.87],
+        "resolution": [3840, 2160],
+        "name": "Ultra HD",
+        "mode": null
+      },
+      {
+        "sensor": [16.89, 14.07],
+        "resolution": [3072, 2560],
+        "name": "3K Anamorphic",
+        "mode": null
+      },
+      {
+        "sensor": [11.26, 6.33],
+        "resolution": [2048, 1152],
+        "name": "2K 16:9",
+        "mode": null
+      },
+      {
+        "sensor": [11.26, 5.93],
+        "resolution": [2048, 1080],
+        "name": "2K DCI",
+        "mode": null
+      },
+      {
+        "sensor": [10.55, 5.93],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": null
+      }
+    ],
+    "manufacturer": "Blackmagic",
+    "model": "URSA Mini Pro 4.6K"
+  },
+  {
+    "category": "canon",
+    "name": "Canon EOS C700 GS PL",
+    "sensors": [
+      {
+        "sensor": [24.0, 13.5],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Canon",
+    "model": "EOS C700 GS PL"
+  },
+  {
+    "category": "canon",
+    "name": "Canon EOS C700",
+    "sensors": [
+      {
+        "sensor": [24.0, 13.5],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Canon",
+    "model": "EOS C700"
+  },
+  {
+    "category": "craft",
+    "name": "Craft Camera 4K",
+    "sensors": [
+      {
+        "sensor": [24.0, 13.5],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Craft",
+    "model": "Camera 4K"
+  },
+  {
+    "category": "craft",
+    "name": "Craft Camera HD",
+    "sensors": [
+      {
+        "sensor": [12.52, 7.04],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Craft",
+    "model": "Camera HD"
+  },
+  {
+    "category": "sony",
+    "name": "Sony UMC-S3C",
+    "sensors": [
+      {
+        "sensor": [36.0, 20.25],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "UMC-S3C"
+  },
+  {
+    "category": "sony",
+    "name": "Sony HDC-4800",
+    "sensors": [
+      {
+        "sensor": [23.6, 13.3],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "HDC-4800"
+  },
+  {
+    "category": "sony",
+    "name": "Sony PXW-Z150",
+    "sensors": [
+      {
+        "sensor": [13.2, 8.8],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "PXW-Z150"
+  },
+  {
+    "category": "vision-research",
+    "name": "Vision Research Phantom VEO",
+    "sensors": [
+      {
+        "sensor": [25.6, 16.0],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Vision Research",
+    "model": "Phantom VEO"
+  },
+  {
+    "category": "canon",
+    "name": "Canon ME200S-SH",
+    "sensors": [
+      {
+        "sensor": [24.6, 13.8],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Canon",
+    "model": "ME200S-SH"
+  },
+  {
+    "category": "red",
+    "name": "RED WEAPON HELIUM 8K S35",
+    "sensors": [
+      {
+        "sensor": [29.9, 15.77],
+        "resolution": [8192, 4320],
+        "name": "8K FF",
+        "mode": null
+      },
+      {
+        "sensor": [29.9, 14.95],
+        "resolution": [8192, 4096],
+        "name": "8K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [29.9, 12.61],
+        "resolution": [8192, 3456],
+        "name": "8K WS",
+        "mode": null
+      },
+      {
+        "sensor": [28.03, 15.77],
+        "resolution": [7680, 4320],
+        "name": "8K HD",
+        "mode": null
+      },
+      {
+        "sensor": [28.03, 14.89],
+        "resolution": [7680, 4080],
+        "name": "7.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [28.03, 14.02],
+        "resolution": [7680, 3840],
+        "name": "7.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [28.03, 11.83],
+        "resolution": [7680, 3240],
+        "name": "7.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [26.63, 14.98],
+        "resolution": [7296, 4104],
+        "name": "7.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [26.16, 13.8],
+        "resolution": [7168, 3780],
+        "name": "7K FF",
+        "mode": null
+      },
+      {
+        "sensor": [26.16, 13.08],
+        "resolution": [7168, 3584],
+        "name": "7K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [26.16, 11.04],
+        "resolution": [7168, 3024],
+        "name": "7K WS",
+        "mode": null
+      },
+      {
+        "sensor": [24.53, 13.8],
+        "resolution": [6720, 3780],
+        "name": "7K HD",
+        "mode": null
+      },
+      {
+        "sensor": [24.29, 12.91],
+        "resolution": [6656, 3536],
+        "name": "6.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [24.29, 12.15],
+        "resolution": [6656, 3328],
+        "name": "6.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [24.29, 10.25],
+        "resolution": [6656, 2808],
+        "name": "6.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [22.43, 12.61],
+        "resolution": [6144, 3456],
+        "name": "6.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [22.43, 11.83],
+        "resolution": [6144, 3240],
+        "name": "6K FF",
+        "mode": null
+      },
+      {
+        "sensor": [22.43, 11.21],
+        "resolution": [6144, 3072],
+        "name": "6K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [22.43, 9.46],
+        "resolution": [6144, 2592],
+        "name": "6K WS",
+        "mode": null
+      },
+      {
+        "sensor": [21.02, 11.83],
+        "resolution": [5760, 3240],
+        "name": "6K HD",
+        "mode": null
+      },
+      {
+        "sensor": [20.44, 10.81],
+        "resolution": [5600, 2960],
+        "name": "5.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [20.44, 10.22],
+        "resolution": [5600, 2800],
+        "name": "5.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [20.44, 8.62],
+        "resolution": [5600, 2360],
+        "name": "5.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [19.27, 10.81],
+        "resolution": [5280, 2960],
+        "name": "5.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [18.69, 9.86],
+        "resolution": [5120, 2700],
+        "name": "5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [18.69, 9.35],
+        "resolution": [5120, 2560],
+        "name": "5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [18.69, 7.89],
+        "resolution": [5120, 2160],
+        "name": "5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [17.52, 9.86],
+        "resolution": [4800, 2700],
+        "name": "5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [14.95, 7.89],
+        "resolution": [4096, 2160],
+        "name": "4K FF",
+        "mode": null
+      },
+      {
+        "sensor": [14.95, 7.48],
+        "resolution": [4096, 2048],
+        "name": "4K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [14.95, 6.31],
+        "resolution": [4096, 1728],
+        "name": "4K WS",
+        "mode": null
+      },
+      {
+        "sensor": [14.01, 7.89],
+        "resolution": [3840, 2160],
+        "name": "4K HD",
+        "mode": null
+      },
+      {
+        "sensor": [11.21, 5.91],
+        "resolution": [3072, 1620],
+        "name": "3K",
+        "mode": null
+      },
+      {
+        "sensor": [10.51, 5.91],
+        "resolution": [2880, 1620],
+        "name": "3K HD",
+        "mode": null
+      },
+      {
+        "sensor": [11.21, 5.61],
+        "resolution": [3072, 1536],
+        "name": "3K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [11.21, 4.67],
+        "resolution": [3072, 1280],
+        "name": "3K WS",
+        "mode": null
+      },
+      {
+        "sensor": [7.48, 3.94],
+        "resolution": [2048, 1080],
+        "name": "2K",
+        "mode": null
+      },
+      {
+        "sensor": [7.01, 3.94],
+        "resolution": [1920, 1080],
+        "name": "2K HD",
+        "mode": null
+      },
+      {
+        "sensor": [7.48, 3.75],
+        "resolution": [2048, 1024],
+        "name": "2K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [7.48, 3.12],
+        "resolution": [2048, 854],
+        "name": "2K WS",
+        "mode": null
+      },
+      {
+        "sensor": [4.67, 2.63],
+        "resolution": [1280, 720],
+        "name": "1K HD",
+        "mode": null
+      },
+      {
+        "sensor": [4.67, 1.75],
+        "resolution": [1280, 480],
+        "name": "1K WS",
+        "mode": null
+      }
+    ],
+    "manufacturer": "RED",
+    "model": "WEAPON HELIUM 8K S35"
+  },
+  {
+    "category": "red",
+    "name": "RED RAVEN 4.5K",
+    "sensors": [
+      {
+        "sensor": [23.04, 10.8],
+        "resolution": [4608, 2160],
+        "name": "4.5K 2.1",
+        "mode": null
+      },
+      {
+        "sensor": [23.04, 9.72],
+        "resolution": [4608, 1944],
+        "name": "4.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [20.48, 10.8],
+        "resolution": [4096, 2160],
+        "name": "4K FF",
+        "mode": null
+      },
+      {
+        "sensor": [20.48, 10.24],
+        "resolution": [4096, 2048],
+        "name": "4K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [20.48, 8.64],
+        "resolution": [4096, 1728],
+        "name": "4K WS",
+        "mode": null
+      },
+      {
+        "sensor": [19.2, 10.8],
+        "resolution": [3840, 2160],
+        "name": "4K HD",
+        "mode": null
+      },
+      {
+        "sensor": [17.92, 9.38],
+        "resolution": [3584, 1876],
+        "name": "3.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [17.92, 8.96],
+        "resolution": [3584, 1792],
+        "name": "3.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [17.92, 7.56],
+        "resolution": [3584, 1512],
+        "name": "3.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [16.8, 9.38],
+        "resolution": [3360, 1876],
+        "name": "3.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [15.36, 8.1],
+        "resolution": [3072, 1620],
+        "name": "3K FF",
+        "mode": null
+      },
+      {
+        "sensor": [15.36, 7.68],
+        "resolution": [3072, 1536],
+        "name": "3K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [15.36, 6.48],
+        "resolution": [3072, 1296],
+        "name": "3K WS",
+        "mode": null
+      },
+      {
+        "sensor": [14.4, 8.1],
+        "resolution": [2880, 1620],
+        "name": "3K HD",
+        "mode": null
+      },
+      {
+        "sensor": [12.8, 6.7],
+        "resolution": [2560, 1340],
+        "name": "2.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [12.8, 6.4],
+        "resolution": [2560, 1280],
+        "name": "2.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [12.8, 5.4],
+        "resolution": [2560, 1080],
+        "name": "2.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [12.0, 6.7],
+        "resolution": [2400, 1340],
+        "name": "2.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [10.24, 5.4],
+        "resolution": [2048, 1080],
+        "name": "2K FF",
+        "mode": null
+      },
+      {
+        "sensor": [10.24, 5.12],
+        "resolution": [2048, 1024],
+        "name": "2K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [10.24, 4.32],
+        "resolution": [2048, 864],
+        "name": "2K WS",
+        "mode": null
+      },
+      {
+        "sensor": [9.6, 5.4],
+        "resolution": [1920, 1080],
+        "name": "2K HD",
+        "mode": null
+      },
+      {
+        "sensor": [6.91, 3.88],
+        "resolution": [1280, 720],
+        "name": "1K HD",
+        "mode": null
+      },
+      {
+        "sensor": [6.91, 2.59],
+        "resolution": [1280, 480],
+        "name": "1K WS",
+        "mode": null
+      }
+    ],
+    "manufacturer": "RED",
+    "model": "RAVEN 4.5K"
+  },
+  {
+    "category": "panavision",
+    "name": "Panavision Millennium DXL",
+    "sensors": [
+      {
+        "sensor": [40.96, 21.6],
+        "resolution": [8192, 4320],
+        "name": "8K Open Gate",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [38.4, 20.4],
+        "resolution": [7680, 4080],
+        "name": "7.5K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [35.84, 18.9],
+        "resolution": [7168, 3780],
+        "name": "7K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [33.28, 17.68],
+        "resolution": [6656, 3536],
+        "name": "6.5K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [30.72, 16.2],
+        "resolution": [6144, 3240],
+        "name": "6K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [25.6, 13.5],
+        "resolution": [5120, 2700],
+        "name": "5K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [20.48, 10.8],
+        "resolution": [4096, 2160],
+        "name": "4K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [15.36, 8.1],
+        "resolution": [3072, 1620],
+        "name": "3K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [10.24, 5.4],
+        "resolution": [2048, 1080],
+        "name": "2K",
+        "mode": "1.9:1 Modes"
+      },
+      {
+        "sensor": [40.96, 21.6],
+        "resolution": [8192, 4320],
+        "name": "8K Open Gate",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [38.4, 21.6],
+        "resolution": [7680, 4320],
+        "name": "8K",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [36.48, 20.52],
+        "resolution": [7296, 4104],
+        "name": "7.5K",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [33.6, 18.9],
+        "resolution": [6720, 3780],
+        "name": "7K",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [30.72, 17.28],
+        "resolution": [6144, 3456],
+        "name": "6.5K",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [28.8, 16.2],
+        "resolution": [5760, 3240],
+        "name": "6K",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [24.0, 13.5],
+        "resolution": [4800, 2700],
+        "name": "5K",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [19.2, 10.8],
+        "resolution": [3840, 2160],
+        "name": "4K",
+        "mode": "1.78:1 Mode"
+      },
+      {
+        "sensor": [40.96, 21.6],
+        "resolution": [8192, 4320],
+        "name": "8K Open Gate",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [40.96, 17.28],
+        "resolution": [8192, 3456],
+        "name": "8K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [38.4, 16.2],
+        "resolution": [7680, 3240],
+        "name": "7.5K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [35.84, 15.12],
+        "resolution": [7168, 3024],
+        "name": "7K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [33.28, 14.04],
+        "resolution": [6656, 2808],
+        "name": "6.5K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [30.72, 12.96],
+        "resolution": [6144, 2592],
+        "name": "6K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [25.6, 10.8],
+        "resolution": [5120, 2160],
+        "name": "5K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [20.48, 8.64],
+        "resolution": [4096, 1728],
+        "name": "4K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [15.36, 6.48],
+        "resolution": [3072, 1296],
+        "name": "3K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [10.24, 4.32],
+        "resolution": [2048, 864],
+        "name": "2K",
+        "mode": "2.4:1 WS Mode"
+      },
+      {
+        "sensor": [40.96, 21.6],
+        "resolution": [8192, 4320],
+        "name": "8K Open Gate",
+        "mode": "Anamorphic 6:5 Mode"
+      },
+      {
+        "sensor": [25.92, 21.6],
+        "resolution": [5184, 4320],
+        "name": "8K",
+        "mode": "Anamorphic 6:5 Mode"
+      },
+      {
+        "sensor": [22.68, 18.9],
+        "resolution": [4536, 3780],
+        "name": "7K",
+        "mode": "Anamorphic 6:5 Mode"
+      },
+      {
+        "sensor": [19.44, 16.2],
+        "resolution": [3888, 3240],
+        "name": "6K",
+        "mode": "Anamorphic 6:5 Mode"
+      },
+      {
+        "sensor": [16.2, 13.5],
+        "resolution": [3240, 2700],
+        "name": "5K",
+        "mode": "Anamorphic 6:5 Mode"
+      },
+      {
+        "sensor": [12.96, 10.8],
+        "resolution": [2592, 2160],
+        "name": "4K",
+        "mode": "Anamorphic 6:5 Mode"
+      }
+    ],
+    "manufacturer": "Panavision",
+    "model": "Millennium DXL"
+  },
+  {
+    "category": "vision-research",
+    "name": "Vision Research Phantom Miro 321S",
+    "sensors": [
+      {
+        "sensor": [19.2, 12.0],
+        "resolution": [1920, 1200],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [19.2, 10.8],
+        "resolution": [1920, 1080],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [11.5, 11.5],
+        "resolution": [1152, 1152],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [10.2, 10.2],
+        "resolution": [1024, 1024],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [12.8, 8.0],
+        "resolution": [1280, 800],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [12.8, 7.2],
+        "resolution": [1280, 720],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [6.4, 4.8],
+        "resolution": [640, 480],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [5.1, 5.1],
+        "resolution": [512, 512],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [3.8, 2.9],
+        "resolution": [384, 288],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [2.5, 2.5],
+        "resolution": [256, 256],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [1.3, 1.3],
+        "resolution": [128, 128],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [1.3, 0.6],
+        "resolution": [128, 64],
+        "name": "",
+        "mode": null
+      },
+      {
+        "sensor": [0.6, 0.1],
+        "resolution": [64, 8],
+        "name": "",
+        "mode": null
+      }
+    ],
+    "manufacturer": "Vision Research",
+    "model": "Phantom Miro 321S"
+  },
+  {
+    "category": "vision-research",
+    "name": "Vision Research Phantom Flex4K",
+    "sensors": [
+      {
+        "sensor": [27.6, 15.5],
+        "resolution": [4096, 2304],
+        "name": "Native 16:9",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 15.5],
+        "resolution": [3840, 2160],
+        "name": "Overscan 16:9",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 15.5],
+        "resolution": [2752, 2304],
+        "name": "Anamorphic 2.0",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 15.5],
+        "resolution": [1920, 1080],
+        "name": "Scaled 16:9",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 14.5],
+        "resolution": [4096, 2160],
+        "name": "Native DCI 4K",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 14.9],
+        "resolution": [4096, 2216],
+        "name": "Native 1.85:1",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [27.6, 11.5],
+        "resolution": [4096, 1712],
+        "name": "Native 2.39:1",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [25.8, 14.5],
+        "resolution": [3840, 2160],
+        "name": "Cropped 16:9",
+        "mode": "4K Mode"
+      },
+      {
+        "sensor": [13.8, 10.4],
+        "resolution": [2048, 1536],
+        "name": "Native 4:3",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [13.8, 7.8],
+        "resolution": [2048, 1152],
+        "name": "Native 16:9",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [13.8, 7.8],
+        "resolution": [1920, 1080],
+        "name": "Overscan 16:9",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [13.8, 7.3],
+        "resolution": [2048, 1080],
+        "name": "Native DCI 2K",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [12.9, 7.3],
+        "resolution": [1920, 1080],
+        "name": "Crop 16:9",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [13.8, 7.8],
+        "resolution": [1280, 720],
+        "name": "Scaled 16:9",
+        "mode": "2K Mode"
+      },
+      {
+        "sensor": [8.6, 4.9],
+        "resolution": [1280, 720],
+        "name": "Crop 16:9",
+        "mode": "2K Mode"
+      }
+    ],
+    "manufacturer": "Vision Research",
+    "model": "Phantom Flex4K"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI AMIRA Premium",
+    "sensors": [
+      {
+        "sensor": [26.4, 14.85],
+        "resolution": [3840, 2160],
+        "name": "4K UHD",
+        "mode": null
+      },
+      {
+        "sensor": [28.25, 18.17],
+        "resolution": [3424, 2202],
+        "name": "3.4K Open Gate",
+        "mode": null
+      },
+      {
+        "sensor": [26.4, 14.85],
+        "resolution": [3200, 1800],
+        "name": "3.2K",
+        "mode": null
+      },
+      {
+        "sensor": [23.76, 17.82],
+        "resolution": [2880, 1620],
+        "name": "2.8K",
+        "mode": null
+      },
+      {
+        "sensor": [23.66, 13.3],
+        "resolution": [2048, 1152],
+        "name": "2K",
+        "mode": null
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": null
+      },
+      {
+        "sensor": [13.2, 7.425],
+        "resolution": [1920, 1080],
+        "name": "S16 HD",
+        "mode": null
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "AMIRA Premium"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI AMIRA Advanced",
+    "sensors": [
+      {
+        "sensor": [26.4, 14.85],
+        "resolution": [3840, 2160],
+        "name": "4K UHD",
+        "mode": null
+      },
+      {
+        "sensor": [28.25, 18.17],
+        "resolution": [3424, 2202],
+        "name": "3.4K Open Gate",
+        "mode": null
+      },
+      {
+        "sensor": [26.4, 14.85],
+        "resolution": [3200, 1800],
+        "name": "3.2K",
+        "mode": null
+      },
+      {
+        "sensor": [23.76, 17.82],
+        "resolution": [2880, 1620],
+        "name": "2.8K",
+        "mode": null
+      },
+      {
+        "sensor": [23.66, 13.3],
+        "resolution": [2048, 1152],
+        "name": "2K",
+        "mode": null
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": null
+      },
+      {
+        "sensor": [13.2, 7.425],
+        "resolution": [1920, 1080],
+        "name": "S16 HD",
+        "mode": null
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "AMIRA Advanced"
+  },
+  {
+    "category": "ikonoskop",
+    "name": "Ikonoskop A-Cam dII",
+    "sensors": [
+      {
+        "sensor": [10.6, 6.0],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Ikonoskop",
+    "model": "A-Cam dII"
+  },
+  {
+    "category": "digital-bolex",
+    "name": "Digital Bolex D16",
+    "sensors": [
+      {
+        "sensor": [12.52, 7.41],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Digital Bolex",
+    "model": "D16"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA SXT",
+    "sensors": [
+      {
+        "sensor": [28.17, 18.13],
+        "resolution": [4096, 2636],
+        "name": "4K Cine",
+        "mode": "Open Gate Mode"
+      },
+      {
+        "sensor": [28.25, 18.17],
+        "resolution": [3424, 2202],
+        "name": "3.4K",
+        "mode": "Open Gate Mode"
+      },
+      {
+        "sensor": [21.12, 17.7],
+        "resolution": [4096, 1716],
+        "name": "4K Cine Anamorphic",
+        "mode": "6:5 Mode"
+      },
+      {
+        "sensor": [21.38, 17.82],
+        "resolution": [2578, 2160],
+        "name": "2.6K",
+        "mode": "6:5 Mode"
+      },
+      {
+        "sensor": [21.12, 17.7],
+        "resolution": [2048, 858],
+        "name": "2K Anamorphic",
+        "mode": "6:5 Mode"
+      },
+      {
+        "sensor": [23.76, 17.82],
+        "resolution": [2880, 2160],
+        "name": "2.8K",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [26.4, 14.85],
+        "resolution": [3840, 2160],
+        "name": "4K UHD",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [26.4, 14.85],
+        "resolution": [3200, 1800],
+        "name": "3.2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [26.14, 14.7],
+        "resolution": [3168, 1782],
+        "name": "3.2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [2880, 1620],
+        "name": "2.8K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [2048, 1152],
+        "name": "2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": "16:9 Mode"
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA SXT"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA SXT Plus",
+    "sensors": [
+      {
+        "sensor": [28.17, 18.13],
+        "resolution": [4096, 2636],
+        "name": "4K Cine",
+        "mode": "Open Gate Mode"
+      },
+      {
+        "sensor": [28.25, 18.17],
+        "resolution": [3424, 2202],
+        "name": "3.4K",
+        "mode": "Open Gate Mode"
+      },
+      {
+        "sensor": [21.12, 17.7],
+        "resolution": [4096, 1716],
+        "name": "4K Cine Anamorphic",
+        "mode": "6:5 Mode"
+      },
+      {
+        "sensor": [21.38, 17.82],
+        "resolution": [2578, 2160],
+        "name": "2.6K",
+        "mode": "6:5 Mode"
+      },
+      {
+        "sensor": [21.12, 17.7],
+        "resolution": [2048, 858],
+        "name": "2K Anamorphic",
+        "mode": "6:5 Mode"
+      },
+      {
+        "sensor": [23.76, 17.82],
+        "resolution": [2880, 2160],
+        "name": "2.8K",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [26.4, 14.85],
+        "resolution": [3840, 2160],
+        "name": "4K UHD",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [26.4, 14.85],
+        "resolution": [3200, 1800],
+        "name": "3.2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [26.14, 14.7],
+        "resolution": [3168, 1782],
+        "name": "3.2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [2880, 1620],
+        "name": "2.8K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [2048, 1152],
+        "name": "2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": "16:9 Mode"
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA SXT Plus"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA SXT Studio",
+    "sensors": [
+      {
+        "sensor": [28.17, 18.13],
+        "resolution": [4096, 2636],
+        "name": "4K Cine",
+        "mode": "Open Gate Mode"
+      },
+      {
+        "sensor": [28.25, 18.17],
+        "resolution": [3424, 2202],
+        "name": "3.4K",
+        "mode": "Open Gate Mode"
+      },
+      {
+        "sensor": [21.12, 17.7],
+        "resolution": [4096, 1716],
+        "name": "4K Cine Anamorphic",
+        "mode": "6:5 Mode"
+      },
+      {
+        "sensor": [21.38, 17.82],
+        "resolution": [2578, 2160],
+        "name": "2.6K",
+        "mode": "6:5 Mode"
+      },
+      {
+        "sensor": [21.12, 17.7],
+        "resolution": [2048, 858],
+        "name": "2K Anamorphic",
+        "mode": "6:5 Mode"
+      },
+      {
+        "sensor": [23.76, 17.82],
+        "resolution": [2880, 2160],
+        "name": "2.8K",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [26.4, 14.85],
+        "resolution": [3840, 2160],
+        "name": "4K UHD",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [26.4, 14.85],
+        "resolution": [3200, 1800],
+        "name": "3.2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [26.14, 14.7],
+        "resolution": [3168, 1782],
+        "name": "3.2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [2880, 1620],
+        "name": "2.8K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [2048, 1152],
+        "name": "2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": "16:9 Mode"
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA SXT Studio"
+  },
+  {
+    "category": "canon",
+    "name": "Canon XC10 4K Camcorder",
+    "sensors": [
+      {
+        "sensor": [12.8, 9.6],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Canon",
+    "model": "XC10 4K Camcorder"
+  },
+  {
+    "category": "canon",
+    "name": "Canon ME20F-SH",
+    "sensors": [
+      {
+        "sensor": [24.6, 13.8],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Canon",
+    "model": "ME20F-SH"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA 35",
+    "sensors": [
+      {
+        "sensor": [27.99, 19.22],
+        "mode": null
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA 35"
+  },
+  {
+    "category": "red",
+    "name": "RED SCARLET-W 5K",
+    "sensors": [
+      {
+        "sensor": [25.58, 13.49],
+        "resolution": [5120, 2700],
+        "name": "5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [25.58, 12.79],
+        "resolution": [5120, 2560],
+        "name": "5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [25.58, 10.79],
+        "resolution": [5120, 2160],
+        "name": "5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [23.98, 13.49],
+        "resolution": [4800, 2700],
+        "name": "5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [23.04, 12.16],
+        "resolution": [4608, 2432],
+        "name": "4.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [23.04, 11.52],
+        "resolution": [4608, 2304],
+        "name": "4.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [23.04, 9.72],
+        "resolution": [4608, 1944],
+        "name": "4.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [21.6, 12.16],
+        "resolution": [4320, 2432],
+        "name": "4.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [20.47, 10.79],
+        "resolution": [4096, 2160],
+        "name": "4K FF",
+        "mode": null
+      },
+      {
+        "sensor": [20.47, 10.23],
+        "resolution": [4096, 2048],
+        "name": "4K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [20.47, 8.63],
+        "resolution": [4096, 1728],
+        "name": "4K WS",
+        "mode": null
+      },
+      {
+        "sensor": [19.19, 10.79],
+        "resolution": [3840, 2160],
+        "name": "4K HD",
+        "mode": null
+      },
+      {
+        "sensor": [17.92, 9.38],
+        "resolution": [3584, 1876],
+        "name": "3.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [17.92, 8.96],
+        "resolution": [3584, 1792],
+        "name": "3.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [17.92, 7.56],
+        "resolution": [3584, 1512],
+        "name": "3.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [16.8, 9.38],
+        "resolution": [3360, 1876],
+        "name": "3.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [15.36, 8.1],
+        "resolution": [3072, 1620],
+        "name": "3K FF",
+        "mode": null
+      },
+      {
+        "sensor": [15.36, 7.68],
+        "resolution": [3072, 1536],
+        "name": "3K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [15.36, 6.48],
+        "resolution": [3072, 1296],
+        "name": "3K WS",
+        "mode": null
+      },
+      {
+        "sensor": [14.4, 8.1],
+        "resolution": [2880, 1620],
+        "name": "3K HD",
+        "mode": null
+      },
+      {
+        "sensor": [12.8, 6.7],
+        "resolution": [2560, 1340],
+        "name": "2.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [12.8, 6.4],
+        "resolution": [2560, 1280],
+        "name": "2.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [12.8, 5.4],
+        "resolution": [2560, 1080],
+        "name": "2.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [12.0, 6.7],
+        "resolution": [2400, 1340],
+        "name": "2.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [10.24, 5.4],
+        "resolution": [2048, 1080],
+        "name": "2K FF",
+        "mode": null
+      },
+      {
+        "sensor": [10.24, 5.12],
+        "resolution": [2048, 1024],
+        "name": "2K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [10.24, 4.32],
+        "resolution": [2048, 864],
+        "name": "2K WS",
+        "mode": null
+      },
+      {
+        "sensor": [9.6, 5.4],
+        "resolution": [1920, 1080],
+        "name": "2K HD",
+        "mode": null
+      }
+    ],
+    "manufacturer": "RED",
+    "model": "SCARLET-W 5K"
+  },
+  {
+    "category": "red",
+    "name": "RED WEAPON MONSTRO 8K W",
+    "sensors": [
+      {
+        "sensor": [40.96, 21.6],
+        "resolution": [8192, 4320],
+        "name": "8K FF",
+        "mode": null
+      },
+      {
+        "sensor": [40.96, 20.48],
+        "resolution": [8192, 4096],
+        "name": "8K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [40.96, 17.28],
+        "resolution": [8192, 3456],
+        "name": "8K WS",
+        "mode": null
+      },
+      {
+        "sensor": [38.4, 21.6],
+        "resolution": [7680, 4320],
+        "name": "8K HD",
+        "mode": null
+      },
+      {
+        "sensor": [38.4, 20.4],
+        "resolution": [7680, 4080],
+        "name": "7.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [38.4, 19.2],
+        "resolution": [7680, 3840],
+        "name": "7.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [38.4, 16.2],
+        "resolution": [7680, 3240],
+        "name": "7.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [36.48, 20.52],
+        "resolution": [7296, 4104],
+        "name": "7.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [35.84, 18.9],
+        "resolution": [7168, 3780],
+        "name": "7K FF",
+        "mode": null
+      },
+      {
+        "sensor": [35.84, 17.92],
+        "resolution": [7168, 3584],
+        "name": "7K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [35.84, 15.12],
+        "resolution": [7168, 3024],
+        "name": "7K WS",
+        "mode": null
+      },
+      {
+        "sensor": [33.6, 18.9],
+        "resolution": [6720, 3780],
+        "name": "7K HD",
+        "mode": null
+      },
+      {
+        "sensor": [33.28, 17.68],
+        "resolution": [6656, 3536],
+        "name": "6.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [33.28, 16.64],
+        "resolution": [6656, 3328],
+        "name": "6.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [33.28, 14.04],
+        "resolution": [6656, 2808],
+        "name": "6.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [30.72, 17.28],
+        "resolution": [6144, 3456],
+        "name": "6.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [30.72, 16.2],
+        "resolution": [6144, 3240],
+        "name": "6K FF",
+        "mode": null
+      },
+      {
+        "sensor": [30.72, 15.36],
+        "resolution": [6144, 3072],
+        "name": "6K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [30.72, 12.96],
+        "resolution": [6144, 2592],
+        "name": "6K WS",
+        "mode": null
+      },
+      {
+        "sensor": [28.8, 16.2],
+        "resolution": [5760, 3240],
+        "name": "6K HD",
+        "mode": null
+      },
+      {
+        "sensor": [28.16, 14.74],
+        "resolution": [5632, 2948],
+        "name": "5.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [28.16, 14.08],
+        "resolution": [5632, 2816],
+        "name": "5.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [28.16, 11.88],
+        "resolution": [5632, 2376],
+        "name": "5.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [26.88, 15.12],
+        "resolution": [5376, 3024],
+        "name": "5.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [25.58, 13.49],
+        "resolution": [5120, 2700],
+        "name": "5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [25.58, 12.79],
+        "resolution": [5120, 2560],
+        "name": "5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [25.58, 10.79],
+        "resolution": [5120, 2160],
+        "name": "5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [23.98, 13.49],
+        "resolution": [4800, 2700],
+        "name": "5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [20.47, 10.79],
+        "resolution": [4096, 2160],
+        "name": "4K FF",
+        "mode": null
+      },
+      {
+        "sensor": [20.47, 10.23],
+        "resolution": [4096, 2048],
+        "name": "4K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [20.47, 8.63],
+        "resolution": [4096, 1728],
+        "name": "4K WS",
+        "mode": null
+      },
+      {
+        "sensor": [19.19, 10.79],
+        "resolution": [3840, 2160],
+        "name": "4K HD",
+        "mode": null
+      },
+      {
+        "sensor": [16.59, 8.75],
+        "resolution": [3072, 1620],
+        "name": "3K",
+        "mode": null
+      },
+      {
+        "sensor": [15.55, 8.75],
+        "resolution": [2880, 1620],
+        "name": "3K HD",
+        "mode": null
+      },
+      {
+        "sensor": [16.59, 8.29],
+        "resolution": [3072, 1536],
+        "name": "3K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [16.59, 6.91],
+        "resolution": [3072, 1280],
+        "name": "3K WS",
+        "mode": null
+      },
+      {
+        "sensor": [11.06, 5.83],
+        "resolution": [2048, 1080],
+        "name": "2K",
+        "mode": null
+      },
+      {
+        "sensor": [10.37, 5.83],
+        "resolution": [1920, 1080],
+        "name": "2K HD",
+        "mode": null
+      },
+      {
+        "sensor": [11.06, 5.54],
+        "resolution": [2048, 1024],
+        "name": "2K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [11.06, 4.61],
+        "resolution": [2048, 854],
+        "name": "2K WS",
+        "mode": null
+      },
+      {
+        "sensor": [6.91, 3.88],
+        "resolution": [1280, 720],
+        "name": "1K HD",
+        "mode": null
+      },
+      {
+        "sensor": [6.91, 2.59],
+        "resolution": [1280, 480],
+        "name": "1K WS",
+        "mode": null
+      }
+    ],
+    "manufacturer": "RED",
+    "model": "WEAPON MONSTRO 8K W"
+  },
+  {
+    "category": "sony",
+    "name": "Sony NEX-VG900",
+    "sensors": [
+      {
+        "sensor": [35.8, 20.1],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "NEX-VG900"
+  },
+  {
+    "category": "sony",
+    "name": "Sony NEX-VG30H",
+    "sensors": [
+      {
+        "sensor": [23.5, 13.2],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "NEX-VG30H"
+  },
+  {
+    "category": "canon",
+    "name": "Canon EOS C100 Mark II",
+    "sensors": [
+      {
+        "sensor": [24.6, 13.8],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Canon",
+    "model": "EOS C100 Mark II"
+  },
+  {
+    "category": "canon",
+    "name": "Canon EOS C300 Mark II",
+    "sensors": [
+      {
+        "sensor": [24.6, 13.8],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Canon",
+    "model": "EOS C300 Mark II"
+  },
+  {
+    "category": "blackmagic",
+    "name": "Blackmagic Micro Studio Camera 4K",
+    "sensors": [
+      {
+        "sensor": [13.056, 7.344],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Blackmagic",
+    "model": "Micro Studio Camera 4K"
+  },
+  {
+    "category": "blackmagic",
+    "name": "Blackmagic Micro Cinema Camera",
+    "sensors": [
+      {
+        "sensor": [12.48, 7.02],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Blackmagic",
+    "model": "Micro Cinema Camera"
+  },
+  {
+    "category": "blackmagic",
+    "name": "Blackmagic URSA Mini 4.6k",
+    "sensors": [
+      {
+        "sensor": [25.34, 14.25],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Blackmagic",
+    "model": "URSA Mini 4.6k"
+  },
+  {
+    "category": "blackmagic",
+    "name": "Blackmagic URSA Mini 4K",
+    "sensors": [
+      {
+        "sensor": [22.0, 11.88],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Blackmagic",
+    "model": "URSA Mini 4K"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA Mini",
+    "sensors": [
+      {
+        "sensor": [26.4, 14.85],
+        "resolution": [3840, 2160],
+        "name": "4K UHD",
+        "mode": null
+      },
+      {
+        "sensor": [28.25, 18.17],
+        "resolution": [3424, 2202],
+        "name": "3.4K Open Gate",
+        "mode": null
+      },
+      {
+        "sensor": [26.4, 14.85],
+        "resolution": [3200, 1800],
+        "name": "3.2K",
+        "mode": null
+      },
+      {
+        "sensor": [23.76, 17.82],
+        "resolution": [2880, 2160],
+        "name": "2.8K 4:3",
+        "mode": null
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [2880, 1620],
+        "name": "2.8K",
+        "mode": null
+      },
+      {
+        "sensor": [21.12, 17.7],
+        "resolution": [2560, 2145],
+        "name": "2K Anamorphic 2.39:1",
+        "mode": null
+      },
+      {
+        "sensor": [23.66, 13.3],
+        "resolution": [2048, 1152],
+        "name": "2K",
+        "mode": null
+      },
+      {
+        "sensor": [21.12, 17.7],
+        "resolution": [2048, 858],
+        "name": "2K Anamorphic 2.39:1",
+        "mode": null
+      },
+      {
+        "sensor": [15.84, 17.82],
+        "resolution": [1920, 2160],
+        "name": "HD Anamorphic 16:9",
+        "mode": null
+      },
+      {
+        "sensor": [15.84, 17.82],
+        "resolution": [1920, 1080],
+        "name": "HD Anamorphic",
+        "mode": null
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": null
+      },
+      {
+        "sensor": [13.2, 7.425],
+        "resolution": [1920, 1080],
+        "name": "S16 HD",
+        "mode": null
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA Mini"
+  },
+  {
+    "category": "blackmagic",
+    "name": "Blackmagic Studio Camera 4K",
+    "sensors": [
+      {
+        "sensor": [13.056, 7.344],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Blackmagic",
+    "model": "Studio Camera 4K"
+  },
+  {
+    "category": "blackmagic",
+    "name": "Blackmagic Studio Camera HD",
+    "sensors": [
+      {
+        "sensor": [12.48, 7.02],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Blackmagic",
+    "model": "Studio Camera HD"
+  },
+  {
+    "category": "blackmagic",
+    "name": "Blackmagic URSA 4K",
+    "sensors": [
+      {
+        "sensor": [21.12, 11.88],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Blackmagic",
+    "model": "URSA 4K"
+  },
+  {
+    "category": "blackmagic",
+    "name": "Blackmagic URSA 4.6K",
+    "sensors": [
+      {
+        "sensor": [25.34, 14.25],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Blackmagic",
+    "model": "URSA 4.6K"
+  },
+  {
+    "category": "aja",
+    "name": "AJA CION",
+    "sensors": [
+      {
+        "sensor": [22.5, 11.9],
+        "mode": null
+      }
+    ],
+    "manufacturer": "AJA",
+    "model": "CION"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA 65",
+    "sensors": [
+      {
+        "sensor": [54.12, 25.58],
+        "resolution": [6560, 3100],
+        "name": "Open Gate",
+        "mode": null
+      },
+      {
+        "sensor": [36.7, 25.54],
+        "resolution": [4448, 3096],
+        "name": "LF Open Gate",
+        "mode": null
+      },
+      {
+        "sensor": [42.24, 23.76],
+        "resolution": [5120, 2880],
+        "name": "16:9",
+        "mode": null
+      },
+      {
+        "sensor": [35.64, 23.76],
+        "resolution": [4320, 2880],
+        "name": "3:2",
+        "mode": null
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA 65"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA XT B+W",
+    "sensors": [
+      {
+        "sensor": [28.25, 18.17],
+        "resolution": [3414, 2198],
+        "name": "Open Gate",
+        "mode": "Open Gate Mode"
+      },
+      {
+        "sensor": [23.76, 17.82],
+        "resolution": [2880, 2160],
+        "name": "Full",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [21.27, 17.82],
+        "resolution": [2578, 2160],
+        "name": "Cropped",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [23.66, 17.75],
+        "resolution": [2048, 1536],
+        "name": "2K",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [26.14, 14.7],
+        "resolution": [3164, 1778],
+        "name": "3.2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [2880, 1620],
+        "name": "2.8K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.66, 13.32],
+        "resolution": [2048, 1152],
+        "name": "2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": "16:9 Mode"
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA XT B+W"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA XR Studio",
+    "sensors": [
+      {
+        "sensor": [28.25, 18.17],
+        "resolution": [3414, 2198],
+        "name": "Open Gate",
+        "mode": "Open Gate Mode"
+      },
+      {
+        "sensor": [23.76, 17.82],
+        "resolution": [2880, 2160],
+        "name": "Full",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [21.27, 17.82],
+        "resolution": [2578, 2160],
+        "name": "Cropped",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [23.66, 17.75],
+        "resolution": [2048, 1536],
+        "name": "2K",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [26.14, 14.7],
+        "resolution": [3164, 1778],
+        "name": "3.2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [2880, 1620],
+        "name": "2.8K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.66, 13.32],
+        "resolution": [2048, 1152],
+        "name": "2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": "16:9 Mode"
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA XR Studio"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA XR Plus",
+    "sensors": [
+      {
+        "sensor": [28.25, 18.17],
+        "resolution": [3414, 2198],
+        "name": "Open Gate",
+        "mode": "Open Gate Mode"
+      },
+      {
+        "sensor": [23.76, 17.82],
+        "resolution": [2880, 2160],
+        "name": "Full",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [21.27, 17.82],
+        "resolution": [2578, 2160],
+        "name": "Cropped",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [23.66, 17.75],
+        "resolution": [2048, 1536],
+        "name": "2K",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [26.14, 14.7],
+        "resolution": [3164, 1778],
+        "name": "3.2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [2880, 1620],
+        "name": "2.8K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.66, 13.32],
+        "resolution": [2048, 1152],
+        "name": "2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": "16:9 Mode"
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA XR Plus"
+  },
+  {
+    "category": "sony",
+    "name": "Sony PXW-FS7",
+    "sensors": [
+      {
+        "sensor": [23.6, 13.3],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "PXW-FS7"
+  },
+  {
+    "category": "red",
+    "name": "RED WEAPON DRAGON 6K S35",
+    "sensors": [
+      {
+        "sensor": [30.7, 15.8],
+        "resolution": [6144, 3160],
+        "name": "6K FF",
+        "mode": null
+      },
+      {
+        "sensor": [30.7, 15.35],
+        "resolution": [6144, 3072],
+        "name": "6K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [30.7, 12.95],
+        "resolution": [6144, 2592],
+        "name": "6K WS",
+        "mode": null
+      },
+      {
+        "sensor": [27.82, 15.65],
+        "resolution": [5568, 3132],
+        "name": "6K HD",
+        "mode": null
+      },
+      {
+        "sensor": [27.98, 14.79],
+        "resolution": [5600, 2960],
+        "name": "5.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [27.98, 13.99],
+        "resolution": [5600, 2800],
+        "name": "5.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [27.98, 11.79],
+        "resolution": [5600, 2360],
+        "name": "5.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [26.38, 14.79],
+        "resolution": [5280, 2960],
+        "name": "5.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [25.58, 13.49],
+        "resolution": [5120, 2700],
+        "name": "5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [25.58, 12.79],
+        "resolution": [5120, 2560],
+        "name": "5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [25.58, 10.79],
+        "resolution": [5120, 2160],
+        "name": "5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [23.98, 13.49],
+        "resolution": [4800, 2700],
+        "name": "5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [23.04, 12.16],
+        "resolution": [4608, 2432],
+        "name": "4.5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [23.04, 11.52],
+        "resolution": [4608, 2304],
+        "name": "4.5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [23.04, 9.72],
+        "resolution": [4608, 1944],
+        "name": "4.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [21.6, 12.16],
+        "resolution": [4320, 2432],
+        "name": "4.5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [20.47, 10.79],
+        "resolution": [4096, 2160],
+        "name": "4K FF",
+        "mode": null
+      },
+      {
+        "sensor": [20.47, 10.23],
+        "resolution": [4096, 2048],
+        "name": "4K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [20.47, 8.63],
+        "resolution": [4096, 1728],
+        "name": "4K WS",
+        "mode": null
+      },
+      {
+        "sensor": [19.19, 10.79],
+        "resolution": [3840, 2160],
+        "name": "4K HD",
+        "mode": null
+      },
+      {
+        "sensor": [16.59, 8.75],
+        "resolution": [3072, 1620],
+        "name": "3K",
+        "mode": null
+      },
+      {
+        "sensor": [15.55, 8.75],
+        "resolution": [2880, 1620],
+        "name": "3K HD",
+        "mode": null
+      },
+      {
+        "sensor": [16.59, 8.29],
+        "resolution": [3072, 1536],
+        "name": "3K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [16.59, 6.91],
+        "resolution": [3072, 1280],
+        "name": "3K WS",
+        "mode": null
+      },
+      {
+        "sensor": [11.06, 5.83],
+        "resolution": [2048, 1080],
+        "name": "2K",
+        "mode": null
+      },
+      {
+        "sensor": [10.37, 5.83],
+        "resolution": [1920, 1080],
+        "name": "2K HD",
+        "mode": null
+      },
+      {
+        "sensor": [11.06, 5.54],
+        "resolution": [2048, 1024],
+        "name": "2K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [11.06, 4.61],
+        "resolution": [2048, 854],
+        "name": "2K WS",
+        "mode": null
+      },
+      {
+        "sensor": [6.91, 3.88],
+        "resolution": [1280, 720],
+        "name": "1K HD",
+        "mode": null
+      },
+      {
+        "sensor": [6.91, 2.59],
+        "resolution": [1280, 480],
+        "name": "1K WS",
+        "mode": null
+      }
+    ],
+    "manufacturer": "RED",
+    "model": "WEAPON DRAGON 6K S35"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI AMIRA",
+    "sensors": [
+      {
+        "sensor": [26.4, 14.85],
+        "resolution": [3840, 2160],
+        "name": "4K UHD",
+        "mode": null
+      },
+      {
+        "sensor": [28.25, 18.17],
+        "resolution": [3424, 2202],
+        "name": "3.4K Open Gate",
+        "mode": null
+      },
+      {
+        "sensor": [26.4, 14.85],
+        "resolution": [3200, 1800],
+        "name": "3.2K",
+        "mode": null
+      },
+      {
+        "sensor": [23.76, 17.82],
+        "resolution": [2880, 1620],
+        "name": "2.8K",
+        "mode": null
+      },
+      {
+        "sensor": [23.66, 13.3],
+        "resolution": [2048, 1152],
+        "name": "2K",
+        "mode": null
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": null
+      },
+      {
+        "sensor": [13.2, 7.425],
+        "resolution": [1920, 1080],
+        "name": "S16 HD",
+        "mode": null
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "AMIRA"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA XT Studio",
+    "sensors": [
+      {
+        "sensor": [28.25, 18.17],
+        "resolution": [3414, 2198],
+        "name": "Open Gate",
+        "mode": "Open Gate Mode"
+      },
+      {
+        "sensor": [23.76, 17.82],
+        "resolution": [2880, 2160],
+        "name": "Full",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [21.27, 17.82],
+        "resolution": [2578, 2160],
+        "name": "Cropped",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [23.66, 17.75],
+        "resolution": [2048, 1536],
+        "name": "2K",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [26.14, 14.7],
+        "resolution": [3164, 1778],
+        "name": "3.2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [2880, 1620],
+        "name": "2.8K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.66, 13.32],
+        "resolution": [2048, 1152],
+        "name": "2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": "16:9 Mode"
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA XT Studio"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA XT Plus",
+    "sensors": [
+      {
+        "sensor": [28.25, 18.17],
+        "resolution": [3414, 2198],
+        "name": "Open Gate",
+        "mode": "Open Gate Mode"
+      },
+      {
+        "sensor": [23.76, 17.82],
+        "resolution": [2880, 2160],
+        "name": "Full",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [21.27, 17.82],
+        "resolution": [2578, 2160],
+        "name": "Cropped",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [23.66, 17.75],
+        "resolution": [2048, 1536],
+        "name": "2K",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [26.14, 14.7],
+        "resolution": [3164, 1778],
+        "name": "3.2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [2880, 1620],
+        "name": "2.8K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.66, 13.32],
+        "resolution": [2048, 1152],
+        "name": "2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": "16:9 Mode"
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA XT Plus"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA XT M",
+    "sensors": [
+      {
+        "sensor": [28.25, 18.17],
+        "resolution": [3414, 2198],
+        "name": "Open Gate",
+        "mode": "Open Gate Mode"
+      },
+      {
+        "sensor": [23.76, 17.82],
+        "resolution": [2880, 2160],
+        "name": "Full",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [21.27, 17.82],
+        "resolution": [2578, 2160],
+        "name": "Cropped",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [23.66, 17.75],
+        "resolution": [2048, 1536],
+        "name": "2K",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [26.14, 14.7],
+        "resolution": [3164, 1778],
+        "name": "3.2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [2880, 1620],
+        "name": "2.8K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.66, 13.32],
+        "resolution": [2048, 1152],
+        "name": "2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": "16:9 Mode"
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA XT M"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA XT",
+    "sensors": [
+      {
+        "sensor": [28.25, 18.17],
+        "resolution": [3414, 2198],
+        "name": "Open Gate",
+        "mode": "Open Gate Mode"
+      },
+      {
+        "sensor": [23.76, 17.82],
+        "resolution": [2880, 2160],
+        "name": "Full",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [21.27, 17.82],
+        "resolution": [2578, 2160],
+        "name": "Cropped",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [23.66, 17.75],
+        "resolution": [2048, 1536],
+        "name": "2K",
+        "mode": "4:3 Mode"
+      },
+      {
+        "sensor": [26.14, 14.7],
+        "resolution": [3164, 1778],
+        "name": "3.2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [2880, 1620],
+        "name": "2.8K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.66, 13.32],
+        "resolution": [2048, 1152],
+        "name": "2K",
+        "mode": "16:9 Mode"
+      },
+      {
+        "sensor": [23.76, 13.37],
+        "resolution": [1920, 1080],
+        "name": "HD",
+        "mode": "16:9 Mode"
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA XT"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA Studio",
+    "sensors": [
+      {
+        "sensor": [23.76, 17.82],
+        "mode": null
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA Studio"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA M",
+    "sensors": [
+      {
+        "sensor": [23.76, 13.37],
+        "mode": null
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA M"
+  },
+  {
+    "category": "canon",
+    "name": "Canon EOS C300",
+    "sensors": [
+      {
+        "sensor": [24.6, 13.8],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Canon",
+    "model": "EOS C300"
+  },
+  {
+    "category": "canon",
+    "name": "Canon EOS C100",
+    "sensors": [
+      {
+        "sensor": [24.6, 13.8],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Canon",
+    "model": "EOS C100"
+  },
+  {
+    "category": "canon",
+    "name": "Canon EOS 1D C",
+    "sensors": [
+      {
+        "sensor": [36.0, 20.25],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Canon",
+    "model": "EOS 1D C"
+  },
+  {
+    "category": "blackmagic",
+    "name": "Blackmagic Pocket Cinema Camera",
+    "sensors": [
+      {
+        "sensor": [12.48, 7.02],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Blackmagic",
+    "model": "Pocket Cinema Camera"
+  },
+  {
+    "category": "blackmagic",
+    "name": "Blackmagic Cinema Camera",
+    "sensors": [
+      {
+        "sensor": [15.81, 8.88],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Blackmagic",
+    "model": "Cinema Camera"
+  },
+  {
+    "category": "blackmagic",
+    "name": "Blackmagic Production Camera 4K",
+    "sensors": [
+      {
+        "sensor": [21.12, 11.88],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Blackmagic",
+    "model": "Production Camera 4K"
+  },
+  {
+    "category": "sony",
+    "name": "Sony NEX-FS700",
+    "sensors": [
+      {
+        "sensor": [24.0, 12.7],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "NEX-FS700"
+  },
+  {
+    "category": "sony",
+    "name": "Sony F5",
+    "sensors": [
+      {
+        "sensor": [24.0, 12.7],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "F5"
+  },
+  {
+    "category": "sony",
+    "name": "Sony F55",
+    "sensors": [
+      {
+        "sensor": [24.0, 12.7],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "F55"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA Plus",
+    "sensors": [
+      {
+        "sensor": [23.76, 13.37],
+        "mode": null
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA Plus"
+  },
+  {
+    "category": "arri",
+    "name": "ARRI ALEXA",
+    "sensors": [
+      {
+        "sensor": [23.76, 13.37],
+        "mode": null
+      }
+    ],
+    "manufacturer": "ARRI",
+    "model": "ALEXA"
+  },
+  {
+    "category": "arri",
+    "name": "Arri Arriflex D-21",
+    "sensors": [
+      {
+        "sensor": [23.76, 13.365],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Arri",
+    "model": "Arriflex D-21"
+  },
+  {
+    "category": "arri",
+    "name": "Arri Arriflex D-20",
+    "sensors": [
+      {
+        "sensor": [23.76, 13.365],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Arri",
+    "model": "Arriflex D-20"
+  },
+  {
+    "category": "sony",
+    "name": "Sony F65",
+    "sensors": [
+      {
+        "sensor": [24.7, 13.1],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "F65"
+  },
+  {
+    "category": "sony",
+    "name": "Sony F35",
+    "sensors": [
+      {
+        "sensor": [23.6, 13.3],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "F35"
+  },
+  {
+    "category": "sony",
+    "name": "Sony F23",
+    "sensors": [
+      {
+        "sensor": [9.59, 5.39],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "F23"
+  },
+  {
+    "category": "sony",
+    "name": "Sony SRW-9000PL",
+    "sensors": [
+      {
+        "sensor": [23.6, 13.3],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "SRW-9000PL"
+  },
+  {
+    "category": "sony",
+    "name": "Sony SRW-9000",
+    "sensors": [
+      {
+        "sensor": [9.59, 5.39],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "SRW-9000"
+  },
+  {
+    "category": "sony",
+    "name": "Sony HDC-P1",
+    "sensors": [
+      {
+        "sensor": [9.59, 5.39],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "HDC-P1"
+  },
+  {
+    "category": "sony",
+    "name": "Sony HDC-F950",
+    "sensors": [
+      {
+        "sensor": [9.59, 5.39],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "HDC-F950"
+  },
+  {
+    "category": "sony",
+    "name": "Sony HDW-F900R",
+    "sensors": [
+      {
+        "sensor": [9.59, 5.39],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "HDW-F900R"
+  },
+  {
+    "category": "sony",
+    "name": "Sony PMW-F3",
+    "sensors": [
+      {
+        "sensor": [23.6, 13.3],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "PMW-F3"
+  },
+  {
+    "category": "sony",
+    "name": "Sony PMW-EX1",
+    "sensors": [
+      {
+        "sensor": [6.97, 3.92],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "PMW-EX1"
+  },
+  {
+    "category": "sony",
+    "name": "Sony PMW-EX3",
+    "sensors": [
+      {
+        "sensor": [6.97, 3.92],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "PMW-EX3"
+  },
+  {
+    "category": "sony",
+    "name": "Sony NEX-FS100",
+    "sensors": [
+      {
+        "sensor": [23.6, 13.3],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "NEX-FS100"
+  },
+  {
+    "category": "sony",
+    "name": "Sony NEX-VG20",
+    "sensors": [
+      {
+        "sensor": [23.6, 13.3],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Sony",
+    "model": "NEX-VG20"
+  },
+  {
+    "category": "red",
+    "name": "RED EPIC MYSTERIUM-X 5K S35",
+    "sensors": [
+      {
+        "sensor": [27.65, 14.58],
+        "resolution": [5120, 2700],
+        "name": "5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [25.92, 14.58],
+        "resolution": [4800, 2700],
+        "name": "5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [27.65, 13.83],
+        "resolution": [5120, 2560],
+        "name": "5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [27.65, 11.66],
+        "resolution": [5120, 2160],
+        "name": "5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [19.44, 14.58],
+        "resolution": [3600, 2700],
+        "name": "5K ANA",
+        "mode": null
+      },
+      {
+        "sensor": [22.12, 11.66],
+        "resolution": [4096, 2160],
+        "name": "4K",
+        "mode": null
+      },
+      {
+        "sensor": [20.74, 11.66],
+        "resolution": [3840, 2160],
+        "name": "4K HD",
+        "mode": null
+      },
+      {
+        "sensor": [22.12, 11.06],
+        "resolution": [4096, 2048],
+        "name": "4K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [22.12, 9.21],
+        "resolution": [4096, 1706],
+        "name": "4K WS",
+        "mode": null
+      },
+      {
+        "sensor": [16.59, 8.75],
+        "resolution": [3072, 1620],
+        "name": "3K",
+        "mode": null
+      },
+      {
+        "sensor": [15.55, 8.75],
+        "resolution": [2880, 1620],
+        "name": "3K HD",
+        "mode": null
+      },
+      {
+        "sensor": [16.59, 8.29],
+        "resolution": [3072, 1536],
+        "name": "3K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [16.59, 6.91],
+        "resolution": [3072, 1280],
+        "name": "3K WS",
+        "mode": null
+      },
+      {
+        "sensor": [11.06, 5.83],
+        "resolution": [2048, 1080],
+        "name": "2K",
+        "mode": null
+      },
+      {
+        "sensor": [10.37, 5.83],
+        "resolution": [1920, 1080],
+        "name": "2K HD",
+        "mode": null
+      },
+      {
+        "sensor": [11.06, 5.54],
+        "resolution": [2048, 1024],
+        "name": "2K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [11.06, 4.61],
+        "resolution": [2048, 854],
+        "name": "2K WS",
+        "mode": null
+      },
+      {
+        "sensor": [6.91, 3.88],
+        "resolution": [1280, 720],
+        "name": "1K HD",
+        "mode": null
+      },
+      {
+        "sensor": [6.91, 2.59],
+        "resolution": [1280, 480],
+        "name": "1K WS",
+        "mode": null
+      }
+    ],
+    "manufacturer": "RED",
+    "model": "EPIC MYSTERIUM-X 5K S35"
+  },
+  {
+    "category": "red",
+    "name": "RED SCARLET MX",
+    "sensors": [
+      {
+        "sensor": [27.65, 14.58],
+        "resolution": [5120, 2700],
+        "name": "5K FF",
+        "mode": null
+      },
+      {
+        "sensor": [25.92, 14.58],
+        "resolution": [4800, 2700],
+        "name": "5K HD",
+        "mode": null
+      },
+      {
+        "sensor": [27.65, 13.83],
+        "resolution": [5120, 2560],
+        "name": "5K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [27.65, 11.66],
+        "resolution": [5120, 2160],
+        "name": "5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [19.44, 14.58],
+        "resolution": [3600, 2700],
+        "name": "5K ANA",
+        "mode": null
+      },
+      {
+        "sensor": [22.12, 11.66],
+        "resolution": [4096, 2160],
+        "name": "4K",
+        "mode": null
+      },
+      {
+        "sensor": [20.74, 11.66],
+        "resolution": [3840, 2160],
+        "name": "4K HD",
+        "mode": null
+      },
+      {
+        "sensor": [22.12, 11.06],
+        "resolution": [4096, 2048],
+        "name": "4K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [22.12, 9.21],
+        "resolution": [4096, 1706],
+        "name": "4K WS",
+        "mode": null
+      },
+      {
+        "sensor": [16.59, 8.75],
+        "resolution": [3072, 1620],
+        "name": "3K",
+        "mode": null
+      },
+      {
+        "sensor": [15.55, 8.75],
+        "resolution": [2880, 1620],
+        "name": "3K HD",
+        "mode": null
+      },
+      {
+        "sensor": [16.59, 8.29],
+        "resolution": [3072, 1536],
+        "name": "3K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [16.59, 6.91],
+        "resolution": [3072, 1280],
+        "name": "3K WS",
+        "mode": null
+      },
+      {
+        "sensor": [11.06, 5.83],
+        "resolution": [2048, 1080],
+        "name": "2K",
+        "mode": null
+      },
+      {
+        "sensor": [10.37, 5.83],
+        "resolution": [1920, 1080],
+        "name": "2K HD",
+        "mode": null
+      },
+      {
+        "sensor": [11.06, 5.54],
+        "resolution": [2048, 1024],
+        "name": "2K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [11.06, 4.61],
+        "resolution": [2048, 854],
+        "name": "2K WS",
+        "mode": null
+      },
+      {
+        "sensor": [6.91, 3.88],
+        "resolution": [1280, 720],
+        "name": "1K HD",
+        "mode": null
+      },
+      {
+        "sensor": [6.91, 2.59],
+        "resolution": [1280, 480],
+        "name": "1K WS",
+        "mode": null
+      }
+    ],
+    "manufacturer": "RED",
+    "model": "SCARLET MX"
+  },
+  {
+    "category": "red",
+    "name": "Red One MX",
+    "sensors": [
+      {
+        "sensor": [24.19, 10.37],
+        "resolution": [4480, 1920],
+        "name": "4.5K WS",
+        "mode": null
+      },
+      {
+        "sensor": [22.12, 12.44],
+        "resolution": [4096, 2304],
+        "name": "4K HD",
+        "mode": null
+      },
+      {
+        "sensor": [22.12, 11.06],
+        "resolution": [4096, 2048],
+        "name": "4K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [20.74, 11.66],
+        "resolution": [3840, 2160],
+        "name": "4K HD",
+        "mode": null
+      },
+      {
+        "sensor": [15.21, 12.44],
+        "resolution": [2816, 2304],
+        "name": "4K ANA",
+        "mode": null
+      },
+      {
+        "sensor": [16.59, 9.33],
+        "resolution": [3072, 1728],
+        "name": "3K HD",
+        "mode": null
+      },
+      {
+        "sensor": [16.59, 8.29],
+        "resolution": [3072, 1536],
+        "name": "3K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [11.4, 9.33],
+        "resolution": [2112, 1728],
+        "name": "3K ANA",
+        "mode": null
+      },
+      {
+        "sensor": [11.06, 6.22],
+        "resolution": [2048, 1152],
+        "name": "2K HD",
+        "mode": null
+      },
+      {
+        "sensor": [11.06, 5.54],
+        "resolution": [2048, 1024],
+        "name": "2K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [7.6, 6.22],
+        "resolution": [1408, 1152],
+        "name": "2K ANA",
+        "mode": null
+      }
+    ],
+    "manufacturer": "Red",
+    "model": "One MX"
+  },
+  {
+    "category": "red",
+    "name": "Red One",
+    "sensors": [
+      {
+        "sensor": [22.2, 12.5],
+        "name": "4K 16:9",
+        "mode": null
+      },
+      {
+        "sensor": [22.2, 11.1],
+        "name": "4K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [16.7, 12.5],
+        "name": "3K 16:9",
+        "mode": null
+      },
+      {
+        "sensor": [16.7, 8.3],
+        "name": "3K 2:1",
+        "mode": null
+      },
+      {
+        "sensor": [11.1, 6.2],
+        "name": "2K 16:9",
+        "mode": null
+      },
+      {
+        "sensor": [11.1, 5.5],
+        "name": "2K 2:1",
+        "mode": null
+      }
+    ],
+    "manufacturer": "Red",
+    "model": "One"
+  },
+  {
+    "category": "grass-valley",
+    "name": "Grass Valley Viper FilmStream",
+    "sensors": [
+      {
+        "sensor": [9.59, 5.39],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Grass Valley",
+    "model": "Viper FilmStream"
+  },
+  {
+    "category": "panavision",
+    "name": "Panavision Genesis",
+    "sensors": [
+      {
+        "sensor": [23.6, 13.3],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Panavision",
+    "model": "Genesis"
+  },
+  {
+    "category": "panavision",
+    "name": "Panavision HD-900F",
+    "sensors": [
+      {
+        "sensor": [9.59, 5.39],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Panavision",
+    "model": "HD-900F"
+  },
+  {
+    "category": "panasonic",
+    "name": "Panasonic VariCam AJ-HDC27H",
+    "sensors": [
+      {
+        "sensor": [9.59, 5.39],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Panasonic",
+    "model": "VariCam AJ-HDC27H"
+  },
+  {
+    "category": "panasonic",
+    "name": "Panasonic AG-AF100",
+    "sensors": [
+      {
+        "sensor": [17.3, 13.0],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Panasonic",
+    "model": "AG-AF100"
+  },
+  {
+    "category": "ps-technik",
+    "name": "P+S Technik PS-Cam X35",
+    "sensors": [
+      {
+        "sensor": [21.1, 11.9],
+        "mode": null
+      },
+      {
+        "sensor": [14.1, 7.9],
+        "mode": null
+      }
+    ],
+    "manufacturer": "P+S Technik",
+    "model": "PS-Cam X35"
+  },
+  {
+    "category": "silicon-imaging",
+    "name": "Silicon Imaging SI-2K",
+    "sensors": [
+      {
+        "sensor": [9.59, 5.39],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Silicon Imaging",
+    "model": "SI-2K"
+  },
+  {
+    "category": "vision-research",
+    "name": "Vision Research Phantom HD GOLD",
+    "sensors": [
+      {
+        "sensor": [25.6, 25.6],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Vision Research",
+    "model": "Phantom HD GOLD"
+  },
+  {
+    "category": "vision-research",
+    "name": "Vision Research Phantom 65",
+    "sensors": [
+      {
+        "sensor": [52.1, 30.5],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Vision Research",
+    "model": "Phantom 65"
+  },
+  {
+    "category": "vision-research",
+    "name": "Vision Research Phantom Flex",
+    "sensors": [
+      {
+        "sensor": [25.6, 16.0],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Vision Research",
+    "model": "Phantom Flex"
+  },
+  {
+    "category": "weisscam",
+    "name": "Weisscam HS-2",
+    "sensors": [
+      {
+        "sensor": [24.89, 14.0],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Weisscam",
+    "model": "HS-2"
+  },
+  {
+    "category": "weisscam",
+    "name": "Weisscam HS-1",
+    "sensors": [
+      {
+        "sensor": [15.0, 12.0],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Weisscam",
+    "model": "HS-1"
+  },
+  {
+    "category": "dalsa",
+    "name": "Dalsa Origin II",
+    "sensors": [
+      {
+        "sensor": [24.89, 14.0],
+        "mode": null
+      }
+    ],
+    "manufacturer": "Dalsa",
+    "model": "Origin II"
+  },
+  {
+    "category": "Drone / Full Frame",
+    "name": "Full Frame (Generic)",
+    "sensors": [
+      {
+        "sensor": [36.0, 24.0],
+        "mode": "3:2"
+      },
+      {
+        "sensor": [36.0, 20.25],
+        "mode": "16:9"
+      }
+    ],
+    "manufacturer": "Generic",
+    "model": "Full Frame"
+  },
+  {
+    "category": "DJI",
+    "name": "DJI Osmo Pocket 4P",
+    "sensors": [
+      {
+        "sensor": [13.2, 7.4],
+        "mode": "16:9",
+        "name": "Wide 20mm eq. (1-inch)"
+      },
+      {
+        "sensor": [9.9, 5.6],
+        "mode": "16:9",
+        "name": "Medium tele 60mm eq. (1/1.28-inch)"
+      }
+    ],
+    "manufacturer": "DJI",
+    "model": "Osmo Pocket 4P"
+  },
+  {
+    "category": "Drone / DJI",
+    "name": "DJI Inspire 3 (Zenmuse X9-8K Air)",
+    "sensors": [
+      {
+        "sensor": [36.0, 19.0],
+        "mode": "17:9"
+      }
+    ],
+    "manufacturer": "DJI",
+    "model": "Inspire 3"
+  },
+  {
+    "category": "Drone / DJI",
+    "name": "DJI Mavic 3 Pro",
+    "sensors": [
+      {
+        "sensor": [17.3, 13.0],
+        "mode": "4:3"
+      }
+    ],
+    "manufacturer": "DJI",
+    "model": "Mavic 3 Pro"
+  },
+  {
+    "category": "Drone / DJI",
+    "name": "DJI Mavic 3 Cine",
+    "sensors": [
+      {
+        "sensor": [17.3, 13.0],
+        "mode": "4:3"
+      }
+    ],
+    "manufacturer": "DJI",
+    "model": "Mavic 3 Cine"
+  },
+  {
+    "category": "Drone / DJI",
+    "name": "DJI Mavic 3",
+    "sensors": [
+      {
+        "sensor": [17.3, 13.0],
+        "mode": "4:3"
+      }
+    ],
+    "manufacturer": "DJI",
+    "model": "Mavic 3"
+  },
+  {
+    "category": "Drone / DJI",
+    "name": "DJI Air 3",
+    "sensors": [
+      {
+        "sensor": [9.8, 7.3],
+        "mode": "4:3"
+      }
+    ],
+    "manufacturer": "DJI",
+    "model": "Air 3"
+  },
+  {
+    "category": "Drone / DJI",
+    "name": "DJI Air 2S",
+    "sensors": [
+      {
+        "sensor": [13.2, 8.8],
+        "mode": "3:2"
+      }
+    ],
+    "manufacturer": "DJI",
+    "model": "Air 2S"
+  },
+  {
+    "category": "Drone / DJI",
+    "name": "DJI Mavic Air 2",
+    "sensors": [
+      {
+        "sensor": [6.4, 4.8],
+        "mode": "4:3"
+      }
+    ],
+    "manufacturer": "DJI",
+    "model": "Mavic Air 2"
+  },
+  {
+    "category": "Drone / DJI",
+    "name": "DJI Mini 4 Pro",
+    "sensors": [
+      {
+        "sensor": [9.8, 7.3],
+        "mode": "4:3"
+      }
+    ],
+    "manufacturer": "DJI",
+    "model": "Mini 4 Pro"
+  },
+  {
+    "category": "Drone / DJI",
+    "name": "DJI Mini 3 Pro",
+    "sensors": [
+      {
+        "sensor": [9.8, 7.3],
+        "mode": "4:3"
+      }
+    ],
+    "manufacturer": "DJI",
+    "model": "Mini 3 Pro"
+  },
+  {
+    "category": "Drone / DJI",
+    "name": "DJI Phantom 4 Pro V2.0",
+    "sensors": [
+      {
+        "sensor": [13.2, 8.8],
+        "mode": "3:2"
+      }
+    ],
+    "manufacturer": "DJI",
+    "model": "Phantom 4 Pro V2.0"
+  },
+  {
+    "category": "Drone / DJI",
+    "name": "DJI FPV",
+    "sensors": [
+      {
+        "sensor": [6.16, 4.62],
+        "mode": "4:3"
+      }
+    ],
+    "manufacturer": "DJI",
+    "model": "FPV"
+  },
+  {
+    "category": "Drone / DJI",
+    "name": "DJI Avata 2",
+    "sensors": [
+      {
+        "sensor": [9.8, 7.3],
+        "mode": "4:3"
+      }
+    ],
+    "manufacturer": "DJI",
+    "model": "Avata 2"
+  }
+]
